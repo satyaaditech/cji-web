@@ -1,11 +1,13 @@
-# Welcome to your Jupyter Book
+# Candrajiwa Indonesia (Soenarto) Study Center.
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+Welcome to the Center for the Study of Candrajiwa Indonesia (Soenarto) .In this website, you will find a wealth of knowledge discussing the schema of the human soul, which can be utilized as soul therapy without medication.
 
-Check out the content pages bundled with this sample book to see more.
+The understanding of the soul was obtained through divine guidance received by Mr. Soenarto Mertowardoyo, which was scientifically presented by Dr. Soemantri Hardjoprakosa at Leiden University and received the highest honor, summa cum laude.
+
+The Soul Schema presented here depicts the most comprehensive anatomy of the soul, accompanied by its therapeutic methods in case of any issues.
+
+[.](https://jupyterbook.org) for more information.
 
 ```{tableofcontents}
+
 ```

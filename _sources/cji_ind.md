@@ -4,7 +4,7 @@
 
 Kesempatan ini saya pergunakan untuk menyampaikan terima kasih dan penghargaan kepada beliau-beliau yang memungkinkan saya mencapai tonggak perjalanan ini dalam hidup saya.
 
-Pertama-tama, saya haturkan hormat, cinta, dan terima kasih kepada R. Soenarto Mertowardoyo, kepada almarhum ayahanda, dan kepada R. Trihardono Soemodihardjo, yang telah menunjukkan jalan kepada saya agar tetap berani menuju tujuan yang saya anggap sebagai tujuan hidup.
+Pertama-tama, saya haturkan hormat, cinta, dan terima kasih kepada R. Soenarto Mertowardojo, kepada almarhum ayahanda, dan kepada R. Trihardono Soemodihardjo, yang telah menunjukkan jalan kepada saya agar tetap berani menuju tujuan yang saya anggap sebagai tujuan hidup.
 
 Selanjutnya, saya banyak berhutang budi kepada guru saya, Profesor R. Slamet Iman Santosa, kepala bagian Ilmu Penyakit Urat Syaraf, dan Jiwa Perguruan Tinggi Kedokteran di Jakarta, yang selalu sudi mendampingi saya dalam perjalanan menuju ke psikiatri.
 
@@ -32,7 +32,7 @@ Dari zaman akhir ini terkenal studi dan ceramah-ceramah almarhum Dr. Radjiman We
 
 Dissertasi ini bersumber pada buku-buku, naskah-naskah, surat-surat dari, serta pembicaraan-pembicaraan dan pergaulan dengan orang-orang yang mencari makna dan tujuan hidup dan yang berusaha untuk mencapai makna dan tujuan hidup itu.
 
-Dengan demikian, ada tiga orang yang menjadi sumber dari dissertasi ini. Ketiga orang itu adalah: R. Soenarto Mertowardoyo, R. T. Hardjoprakoso (wafat th. 1942), dan ReTrihardono Soemodihardjo. Yang disebut pertama adalah tokoh pusatnya.
+Dengan demikian, ada tiga orang yang menjadi sumber dari dissertasi ini. Ketiga orang itu adalah: R. Soenarto Mertowardojo, R. T. Hardjoprakoso (wafat th. 1942), dan ReTrihardono Soemodihardjo. Yang disebut pertama adalah tokoh pusatnya.
 
 Dengan adanya berbagai sumber candramanusia yang telah disebutkan tadi, layaklah jika orang mengambil kesimpulan bahwa R. Soenarto tentunya menyusun candramanusia dan candradunianya berdasarkan data yang telah ada, seperti yang akan dilakukan setiap dimiliki oleh seorang ilmuwan.
 
@@ -209,7 +209,7 @@ Bagaimana sifat-sifat pusat-pusat vitalitas ini, bagaimana hubungannya yang satu
 
 CATATAN TAMBAHAN:
 
-1. Soenarto mertowardoyo, R.T.Hardjoprakoso, R.Trihardono Soemodihardjo: Sasangka Jati, Repr.Jatop.523/B. 1954 halaman. 52 Bab Gumelaring dumadi (selanjutnya Soenarto cs. Sasangka Jati).
+1. Soenarto Mertowardojo, R.T.Hardjoprakoso, R.Trihardono Soemodihardjo: Sasangka Jati, Repr.Jatop.523/B. 1954 halaman. 52 Bab Gumelaring dumadi (selanjutnya Soenarto cs. Sasangka Jati).
 
 2. Sda.Bab Tunggal Sabda hal. 107
 3. Sda, Bab Gumelaring dumadi hal 47

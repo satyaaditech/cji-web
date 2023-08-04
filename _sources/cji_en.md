@@ -6,7 +6,7 @@ I take this opportunity to express my gratitude and appreciation to those who ha
 
 First and foremost, I extend my respect, love, and thanks to R. Soenarto Mertowardoyo, to my late father, and to R. Trihardono Soemodihardjo, who have shown me the path to courageously pursue the goals I consider to be the purpose of life.
 
-Furthermore, I am deeply indebted to my mentor, Professor R. Slamet Iman Santoso, Head of the Department of Neurology, Psychiatry, and Mental Health at the Medical College in Jakarta, who has always been willing to accompany me on my journey towards psychiatry.
+Furthermore, I am deeply indebted to my mentor, Professor R. Slamet Iman Santoso, Head of the Department of Neurology, Psychiatry, and Psychology  at the Medical College in Jakarta, who has always been willing to accompany me on my journey towards psychiatry.
 
 At the same time, I mention in the same breath my teacher, Dr. E.A.D.E. Carp, Professor of Psychiatry at Leiden University and head of the "Jelgersma" clinic. Years ago, when I was still in Indonesia, he encouraged me from afar to further explore research on the Indonesian people and later graciously guided me in his clinic. The atmosphere of psychological guidance I received from him allowed me to complete this work in the shortest possible time. The following analogy, which will surely capture the attention of certain individuals, depicts the deep emotional connection: if this work were a baby, then Professor Carp would be its midwife.
 

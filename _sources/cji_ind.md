@@ -10,11 +10,11 @@ Selanjutnya, saya banyak berhutang budi kepada guru saya, Profesor R. Slamet Ima
 
 Bersamaan dengan itu tadi, saya sebut dalam satu nafas guru saya, Dr. E.A.D.E. Carp, guru besar psikiatri pada Universitas Leiden dan kepala klinik "Jelgersma". Beliau, bertahun-tahun yang lalu ketika saya masih berada di Indonesia, mendorong saya dari jauh agar saya lebih mendalami penelitian tentang manusia Indonesia ini dan kemudian sudi membimbing saya dengan ramah di kliniknya. Iklim bimbingan jiwa yang saya terima dari beliau memungkinkan saya menyelesaikan karya ini dalam waktu yang sesingkat-singkatnya. Perbandingan berikut, yang pasti akan menarik perhatian orang-orang tertentu, menggambarkan dengan khas hubungan batin itu: andai karya ini adalah seorang bayi, maka Profesor Carp adalah bidannya.
 
-Kepada para rekan asisten dan nyonya serta tuan sekerja dari klinik "Jelgersma", saya sampaikan terima kasih atas kerjasama yang menyenangkan selama saya berada di Nederland. Ingin saya menyebut dengan khusus nona Th.M.A. van Lith, yang membantu saya dengan kesabaran yang tak ada habisnya pada pelaksanaan teknis disertasi ini.
+Kepada para rekan asisten dan nyonya serta tuan sekerja dari klinik "Jelgersma", saya sampaikan terima kasih atas kerjasama yang menyenangkan selama saya berada di Belanda. Ingin saya menyebut dengan khusus nona Th.M.A. van Lith, yang membantu saya dengan kesabaran yang tak ada habisnya pada pelaksanaan teknis disertasi ini.
 
 ## BAB I : PENGANTAR
 
-Tiap kebudayaan mempunyai candramanusia (1) sendiri-sendiri, yang berguna sebagai pegangan untuk mengembangkan diri dan untuk mempertahankan diri di dunia ini dan di akherat. Candramanusia ini tidak selalu perlu diketahui seluruhnya dengan sadar. Tergantung dari tingkat perkembangan dan kebutuhan kebudayaan masing-masing, bagaimana rupa candramanusia dan segi-segi mana yang dirumuskan dengan jelas pada waktu-waktu tertentu.
+Tiap kebudayaan mempunyai candramanusia [^1.1] sendiri-sendiri, yang berguna sebagai pegangan untuk mengembangkan diri dan untuk mempertahankan diri di dunia ini dan di akherat. Candramanusia ini tidak selalu perlu diketahui seluruhnya dengan sadar. Tergantung dari tingkat perkembangan dan kebutuhan kebudayaan masing-masing, bagaimana rupa candramanusia dan segi-segi mana yang dirumuskan dengan jelas pada waktu-waktu tertentu.
 
 Dalam sejarah Indonesia sudah pasti pernah terdapat banyak candramanusia dan waktu sekarang pun demikian juga keadaannya. Tiap kebudayaan yang datang dari luar membawa candramanusia dan candradunianya sendiri dan mempengaruhi candramanusia yang sudah ada. Pengaruh ini sudah tentu timbal balik.
 
@@ -24,15 +24,15 @@ Jika ditinjau secara menyeluruh, maka di Indonesia terdapat daerah-daerah yang m
 
 Ceritera-ceritera yang diselundupkan ini merupakan ceritera-cerita bulat, yang mempergunakan popularitas wayang di dalam kebudayaan Jawa untuk mencapai rakyat banyak. Adapun isinya menunjukkan suatu anti-propaganda terhadap candramanusia dan candradunia Hindu. Saya sebut di sini ceritera Dewa Ruci, Arjuna Wiwaha, Makuta Rama, dan Dipaningrat.
 
-Di dalam kesusastraan Jawa pada abad yang lalu terdapat candramarusia yang digarap sedikit banyak dengan terperinci, seperti dalam karya-karya Ronggowarsito dan Wiryokusuno (2).
+Di dalam kesusastraan Jawa pada abad yang lalu terdapat candramarusia yang digarap sedikit banyak dengan terperinci, seperti dalam karya-karya Ronggowarsito dan Wiryokusuno {cite}`wedatama`[^1.2].
 
-Pertunjukan wayang yang klasik sebagai keseluruhan dan urut-urutan adegan-adegannya yang terikat oleh aturan-aturan yang tetap, menunjukkan kepada penonton juga suatu candramanusia dan candradunia (3), yang mungkin sekali sudah terdapat dalam bentuk permulaannya di zaman sebelum datangnya orang Hindu.
+Pertunjukan wayang yang klasik sebagai keseluruhan dan urut-urutan adegan-adegannya yang terikat oleh aturan-aturan yang tetap, menunjukkan kepada penonton juga suatu candramanusia dan candradunia {cite}`het`[^1.3], yang mungkin sekali sudah terdapat dalam bentuk permulaannya di zaman sebelum datangnya orang Hindu.
 
 Dari zaman akhir ini terkenal studi dan ceramah-ceramah almarhum Dr. Radjiman Wedyaningrat, yang masih saya kenal secara pribadi. Terutama ceritera wayang "Dewa Ruci" yang menceritakan tentang pahlawan Bima yang mencari Air-Hidup, adalah tema yang sangat menarik oleh orang yang serba bisa ini, yang dalam perjuangan kemerdekaan telah mencurahkan Kan segala kekuatannya, walaupun sudah lanjut usianya dan invalid jasmaninya.
 
 Dissertasi ini bersumber pada buku-buku, naskah-naskah, surat-surat dari, serta pembicaraan-pembicaraan dan pergaulan dengan orang-orang yang mencari makna dan tujuan hidup dan yang berusaha untuk mencapai makna dan tujuan hidup itu.
 
-Dengan demikian, ada tiga orang yang menjadi sumber dari dissertasi ini. Ketiga orang itu adalah: R. Soenarto Mertowardojo, R. T. Hardjoprakoso (wafat th. 1942), dan ReTrihardono Soemodihardjo. Yang disebut pertama adalah tokoh pusatnya.
+Dengan demikian, ada tiga orang yang menjadi sumber dari dissertasi ini. Ketiga orang itu adalah: R. Soenarto Mertowardojo, R. T. Hardjoprakoso (wafat th. 1942), dan R.Trihardono Soemodihardjo. Yang disebut pertama adalah tokoh pusatnya.
 
 Dengan adanya berbagai sumber candramanusia yang telah disebutkan tadi, layaklah jika orang mengambil kesimpulan bahwa R. Soenarto tentunya menyusun candramanusia dan candradunianya berdasarkan data yang telah ada, seperti yang akan dilakukan setiap dimiliki oleh seorang ilmuwan.
 
@@ -42,37 +42,42 @@ Justru gejala ilham ini, yang tidak dapat diselidiki dengan metoda eksperimen ol
 
 Pater Walder menulis:
 
-"Die religiöse Funktion ist eine Grundgegebenheit des Menschen, Offenbarung ist für ihn (Jung) kein einmaliges Ereignis, sondern kann immer wieder stattfinden. Die Wahrnehmungsfunktion für die archetypische Vorstellungen ist die irrationale (introvertierte) Intuition, die in Beziehung gesetzt werden kann zur religiösen Funktion" (4).
+> _"Die religiöse Funktion ist eine Grundgegebenheit des Menschen, Offenbarung ist für ihn (Jung) kein einmaliges Ereignis, sondern kann immer wieder stattfinden. Die Wahrnehmungsfunktion für die archetypische Vorstellungen ist die irrationale (introvertierte) Intuition, die in Beziehung gesetzt werden kann zur religiösen Funktion"_ [^1.4] {cite}`mensch` .
 
-Wenn man jedoch die innere Entwicklung von Jungs Werk überblickt, so kann man feststellen, dass immer deutlicher neben den wissenschaftlich-skeptischen, phänomenologischen Gesichtspunkten eine Haltung tritt, die auch über den philosophisch-kritischen Gesichtspunkt hinausgeht und einen ausgesprochen metaphysisch-religiösen Standort verrät. Der Grund für das Hervortreten des metaphysisch-religiösen Gesichtspunktes ist gegeben in der wachsenden Bedeutung, die in Jungs Forschertätigkeit dem Problem der Beziehung des Menschen zur Sphäre des Göttlichen, des Numinosen, zukommt. Jung muss einsehen, dass ein nur phänomenologisch-empirischer und letzte Endes unverbindlicher Standort dem Numinosen gegenüber nicht gerecht wird.
+> _Wenn man jedoch die innere Entwicklung von Jungs Werk überblickt, so kann man feststellen, dass immer deutlicher neben den wissenschaftlich-skeptischen, phänomenologischen Gesichtspunkten eine Haltung tritt, die auch über den philosophisch-kritischen Gesichtspunkt hinausgeht und einen ausgesprochen metaphysisch-religiösen Standort verrät. Der Grund für das Hervortreten des metaphysisch-religiösen Gesichtspunktes ist gegeben in der wachsenden Bedeutung, die in Jungs Forschertätigkeit dem Problem der Beziehung des Menschen zur Sphäre des Göttlichen, des Numinosen, zukommt. Jung muss einsehen, dass ein nur phänomenologisch-empirischer und letzte Endes unverbindlicher Standort dem Numinosen gegenüber nicht gerecht wird._
 
-Es liegt zutiefst in der Natur des Numinosen, dass es den Menschen zur metaphysisch-religiösen und vor allen Dingen auch zur ethischen Stellungnahme zwingt" (5).
+> _Es liegt zutiefst in der Natur des Numinosen, dass es den Menschen zur metaphysisch-religiösen und vor allen Dingen auch zur ethischen Stellungnahme zwingt"_ [^1.5].
 
-Carp menulis: "Het Ik kan slechts ten onder gaan in het besef van de onmogelijkheid het transcendente te leren kennen. En op de weg naar de ondergang kan het Ik door openbaring kennis verkrijgen van waarheden, welke geloofwaarheden worden genoemd" (6).
+Carp menulis:
+
+> _"Het Ik kan slechts ten onder gaan in het besef van de onmogelijkheid het transcendente te leren kennen. En op de weg naar de ondergang kan het Ik door openbaring kennis verkrijgen van waarheden, welke geloofwaarheden worden genoemd"_. {cite}`problemen`[^1.6]
 
 Tidak ada candramanusia dalam sejarah Indonesia atau bagian-bagian dari Indonesia yang memberikan gambaran yang lebih lengkap dan lebih mendalam daripada candramanusia yang dikemukakan oleh R.Soenarto.
 
 Pilihan jatuh pada candramanusia dan candradunia Soenarto atas dasar pokok-pokok pertimbangan sebagai berikut:...
 
-1. Candra ini mengandung bahan yang paling lengkap untuk suatu candramanusia dan candradunia yang bulat, yang berasal dari satu sumber.
+```{admonition} Pokok-pokok Pertimbangan
+:class: important
+1. Candra ini mengandung bahan yang **paling lengkap** untuk suatu candramanusia dan candradunia yang bulat, yang berasal dari satu sumber.
 
 2. Candra ini menunjuk pada perbedaan-perbedaan hakiki antara candramanusia yang bertujuan perkembangan diri sendiri (the Self) dan candramanusia yang menuju kepada kekuatan-kekuatan di luar diri sendiri.
 
-3. Candra ini menunjuk pada pembagi-persekutuan-terbesar dari semua candramanusia dan candradunia yang ada di Indonesia.
+3. Candra ini menunjuk pada pembagi-persekutuan-terbesar dari semua candramanusia dan candradunia yang ada di Indonesia
 
-4. Candra ini menunjuk pada essensi dari eksistensi manusia yang mengandung kemungkinan untuk melebur ke dalam yang Absolut-transenden.
+4. Candra ini menunjuk pada essensi dari eksistensi manusia yang mengandung kemungkinan untuk melebur ke dalam yang Absolut-transenden
 
-5. Dari sarinya dapat disusun suatu psikoterapi.
+5. Dari sarinya dapat disusun suatu psikoterapi.**
 
 6. Candra ini dapat bertahan dengan gemilang jika dibandingkan dengan candramanusia dan candradunia ciptaan Freud, Adler, dan Jung.
 
-7. Candra ini menunjuk pada potensi-potensi di dalam diri manusia yang di kemudian hari dapat mempunyai arti teoretis dan praktis.
+7. Candra ini menunjuk pada potensi-potensi di dalam diri manusia yang di kemudian hari dapat mempunyai arti teoretis dan praktis
+```
 
-"All excavated treasure in the world remain worthless as long as the treasure-digger has not dug up the own self. Contemplating a human being is contemplating oneself, and no psychotherapy, which does not advantage the own self, is possible. The human contemplation referred to leads to the design of personality of being a human creature, characterized by his existentialism, i.e. his freedom to decide himself and his transcendent i.e. his involvement in the absolute," (9).
+> _"All excavated treasure in the world remain worthless as long as the treasure-digger has not dug up the own self. Contemplating a human being is contemplating oneself, and no psychotherapy, which does not advantage the own self, is possible. The human contemplation referred to leads to the design of personality of being a human creature, characterized by his existentialism, i.e. his freedom to decide himself and his transcendent i.e. his involvement in the absolute," {cite}`christian`[^1.7]_.
 
-Peristiwa itu dimulai pada tanggal 14 Pebruari 1932 ketika R.Soenarto tiba-tiba mendengar suatu Suara (8) dari dalam dirinya yang dalam, yang memberi jawaban yang sedang dicarinya, yaitu jawaban atas pertanyaan: apakah yang Nyata itu dan apakah sesungguhnya yang dinamakan Ilmu Sejati itu. Suara itu tidak didengarnya dengan indera pendengarannya tetapi dengan cara seakan-akan terjadi perubahan keadaan dalam kesadarannya, dan dalam kesadaran yang telah berubah ini diilhamkan: apakah Jalan yang sampai kepada yang Nyata itu.
+Peristiwa itu dimulai pada tanggal 14 Pebruari 1932 ketika R.Soenarto tiba-tiba mendengar suatu Suara [^1.8] dari dalam dirinya yang dalam, yang memberi jawaban yang sedang dicarinya, yaitu jawaban atas pertanyaan: apakah yang Nyata itu dan apakah sesungguhnya yang dinamakan Ilmu Sejati itu. Suara itu tidak didengarnya dengan indera pendengarannya tetapi dengan cara seakan-akan terjadi perubahan keadaan dalam kesadarannya, dan dalam kesadaran yang telah berubah ini diilhamkan: apakah Jalan yang sampai kepada yang Nyata itu.
 
-R.Soenarto bertanya dalam hati: siapakah gerangan yang bersabda itu dan segera menerima ilham lain, yaitu bahwa: Hidup adalah satu dan terdapat dalam setiap manusia dan dapat memanifestasikan diri di dalam hati sanubari manusia yang terdalam. Hidup itu tidak bersikap pasif terhadap - dan menjauh dari manusia, kalau manusia itu sendiri juga tidak bersikap pasif terhadap - dan menjauh dari Hidup (9). Hidup itu adalah Penasehat dan Pemimpin kita, dan titik-singgung dari Hidup di dalam diri manusia adalah kesadaran manusia yang terdalam (Rahsa Jati manusia). Suara tersebut menamakan diri Suksma Sejati, Guru, Panuntun, dan Panutan Sejati dari umat manusia, Utusan Abadi yang Nonpribadi (Onpersoonlijk) dari Suksma Kawekas, Hidup yang Tertinggi.
+R.Soenarto bertanya dalam hati: siapakah gerangan yang bersabda itu dan segera menerima ilham lain, yaitu bahwa: Hidup adalah satu dan terdapat dalam setiap manusia dan dapat memanifestasikan diri di dalam hati sanubari manusia yang terdalam. Hidup itu tidak bersikap pasif terhadap - dan menjauh dari manusia, kalau manusia itu sendiri juga tidak bersikap pasif terhadap - dan menjauh dari Hidup [^1.9]. Hidup itu adalah Penasehat dan Pemimpin kita, dan titik-singgung dari Hidup di dalam diri manusia adalah kesadaran manusia yang terdalam (Rahsa Jati manusia). Suara tersebut menamakan diri Suksma Sejati, Guru, Panuntun, dan Panutan Sejati dari umat manusia, Utusan Abadi yang Nonpribadi (Onpersoonlijk) dari Suksma Kawekas, Hidup yang Tertinggi.
 
 Kemudian dengan cara yang sama R.Soenarto diberi tahu nama-nama R.T.Hardjoprakoso dan R.Soemodihardjo, yang telah ditunjuk sebagai pembantu-pembantunya di kemudian hari.
 
@@ -82,7 +87,7 @@ Secara "kebetulan", ketiga orang tersebut dapat bertemu. Ternyata kedua pria yan
 
 Sudah tentu, ilham-ilham itu hanya dapat dialami secara pribadi oleh orang yang bersangkutan. Peristiwa-peristiwa itu dialami pada saat-saat yang tidak terduga-duga, yang tidak terikat oleh waktu dan tempat. Lagi pula, tidak dapat ditimbulkan dengan sengaja. Waktu menerima ilham itu, kesadaran tetap berfungsi.
 
-"Intuition wird nicht gemacht, man hat einen Finfall, der yon selbst entstanden ist" (10).
+> _"Intuition wird nicht gemacht, man hat einen Finfall, der yon selbst entstanden ist"_ {cite}`Psychologi`[^1.10].
 
 Pada suatu hari R.Soenarto menerima ilham bahwa intuisi-intuisi atau ilham-ilham ini harus didokumentasi dan bahwa kedua pria yang lain itu ditunjuk sebagai notulis untuk mencatat semuanya. R.Soenarto akan berfungsi sebagai pengoreksi suara, sehingga karena itu ilham-ilham dapat ditangkap oleh kedua pria yang lain.
 
@@ -96,29 +101,25 @@ Bagian kedua berisi bab-bab dimana candramanusia dan candradunia dilukiskan deng
 
 Bab terakhir membahas suatu tinjauan membandingkan tempat sang Aku dalam sistem Freud, Adler, dan Jung dengan tempat sang Aku di dalam candramanusia Indonesia.
 
-CATATAN TAMBAHAN
-
-1. Istilah "candramanusia" dipergunakan disamping istilah "candrajiwa". Istilah "candramanusia" digunakan sebagai terjemahan dari istilah "mensbeeld" sebagai istilah anthropologi dengan arti "pandangan tentang manusia, yang menunjuk suatu bentuk kehidupan dan yang disadari atau tidak disadari menjadi pedoman hidup". Istilah "mensbeeld" dalam arti psikologis, yaitu "rangka anatomi dan fisiologi manusia sebagai makhluk rohaniah", diterjemahkan dengan istilah "candrajiwa". Adapun "werebeeld" dan "idealbeeld" diterjemahkan berturut-turut dengan istilah "candradunia" dan "candraideal".
-
-2. Wiryokoesoemo, Serat 'Wedatama' dipersembahkan kepada Sri Paduka Mangkunegara IV, Surakarta 1937, Penerbit dan Toko Buku "De Bliksem". Ronggowarsito, Serat Wirid Hidayat Jati, Penerbit Tan Khoen Swie, Kediri, 1924.
-
-3. Cats J., Het Javaansche Toneel, 1923, Percetakan Balai Pustaka, Indonesia.
-
-4. Walder, Pater, Mensch und Welt bei C.G.Jung, Origo Verlag Zurich,halaman 45, 47. "Fungsi religius adalah fakta dasar dari manusia. Wahyu itu bagi dia (Jung) bukan kejadian yang hanya terjadi sekali saja, tetapi selalu dapat terjadi lagi. Fungsi pengamatan terhadap tanggapan archotype adalah intuisi yang irasional dan introvert, yang dapat dihubungkan dengan fungsi religius
-
-5. Idem halaman 4 . "Namun, jika orang meninjau secara menyeluruh perkembangan jiwa karya Jung, orang dapat menetapkan bahwa disamping pendirian yang ilmiah-skeptis-phaenomenologis, selalu tampil dengan makin jelas suatu sikap yang juga mengatasi pendirian yang filosofis-kritis dan menunjukkan suatu pendirian yang filosofis-religius. Dasar dari tampil kemukanya pendirian yang metafisis-religius ini terdapat pada arti yang makin besar yang diberikan kepada problem hubungan manusia dengan alam Ketuhanan, yang Ilahiah, dalam kegiatan penyelidikan Jung. Jung pasti menyadari bahwa suatu sikap tak hormat terhadap yang Ilahiah hanya berdasarkan titik-titik akhir (pendirian) empiri-fenomenologis, tidak dapat dipertanggung-jawabkan. Adalah sifat dasar dari yang Ilahiah bahwa ia memaksa orang ke arah penentuan sikap yang metafisis-religius dan terutama juga sikap yang etis."
-
-6. Carp, E.A.D.E, Problemen yan hidup meszijn, Uitgeverij Wyt, Rotterdam 1953, halaman 79. 'Sang aku dapat lebur hanya dengan kesadaran bahwa ia tidak mampu untuk mengenal yang transenden, Dan selama perjalanannya menuju kepada peleburannya itu, sang aku dapat menerima kebenaran-kebenaran yang disebut kebenaran-kebenaran kepercayaan'
-
-7. Carp, E.A.D.E, Christian Psychotherapy, Separata de Revista de Psicologia Normal e Patologica ano 1 April Junho de 1955 No.2, "Semua kekayaan di dunia yang digali tetap tidak berharga selama orang yang menggali kekayaan itu tidak menggali diri sendiri, Merenungkan makhluk manusia adalah sama dengan merenungkan diri sendiri dan tidak mungkin ada psychotherapy yang tidak mengembangkan dirinya sendiri, Renungan tentang manusia yang disebut tadi membawa kepada pola kepribadian makhluk manusia, yang berciri khas eksistensinya, yaitu kebobasannya untuk menentukan diri sendiri dan transendensinya, yaitu keterlibatannya di dalam yang absolut.
-
-8. Bandingkan dengan C.G.Jung, Peychologie und Religion, Rascher Verlag, Zurich und Leipzig, (die Terry Lectures) 1937, halaman 73.
-
-9. Bandingkan dengan C.G.Jung, Simbolik des Geistes, Rascher Verlag, Zurich 1948, halaman 334.
-
-10. C.G.Jung, Psychologie und Religion, Rascher Verlag, Zurich und Leipzig (die Terry Lectures) 1936, halaman 76. "Intuisi itu tidak dibuat, orang punya pikiran yang datang dengan sekonyong-konyong, yang terjadi dengan sendirinya"
+[^1.1]: Istilah candramanusia dipergunakan disamping istilah candrajiwa, istilah candramanusia dipergunakan sebagai terjemahan istilah "mensbeeld" sebagai istilah anthropologo dengan arti "pandangan tentang manusia, yang menunjuk suatu bentuk kehidupan dan yang disadari atau tidak disadari menjadi pedoman hidup", Istilah "mensbeeld" dalam arti pychologis, yaitu "rangka anatomi dan physiologi manusia sebagai makhluk rokaniah" diterjemahkan dengan istilah "'candrajiwa". Adapun "wereldbeeld" dan "idealbeeld" diterjemahkan berturut-turut dengan istilah "candradunia" dan “candraideal".
+[^1.2]: Wiryokoesoemo, Serat Wedatama (dipersembahkan kepada Sri Paduka Mangkunegara IV), Surakarta 1937, Penerbit dan Tokobuka "De Bliksem" Ronggowarsito, Serat Wirid Hidayat Jati, Penerbit Tan Khoen Swie, Kediri, 1924.
+[^1.3]: Cats J.,Het Javaansche Toneel, 1923, Percetakan Balai Pustaka, Indonesia.
+[^1.4]: Walder, Pater, Mensch und Welt bei C.G.Jung, Origo Verlag Zurich, h. 45,47. "Fungsi religisus adalah fakta dasar dari manusia. Wahyu itu bagi dia (Jung) bukan kejadian yang hanya terjadi sekali saja, tetapi selalu dapat terjadi lagi, Fungsi. pengamatan terhadap tanggapan-tanggapan archetype dalah intuisi yang irrasionil dan introvert, yang dapat dihubungkan dengan fungsi religieus".
+[^1.5]: Idem halaman 4. "akan tetapi jika orang meninjau secara menyeluruh perkembangan jiwa karya Jung, orang dapat menetapkan hahwa disamping pendirian yang ilmiah-skeptis-phaenomenologis, selalu tampil dengan makin jelas suatu sikap, yang juga mengatasi pendirian yang philosofis-kritis dan menunjukkan suatu pendirian yang philosofisreligieus, Dasar dari tampil kemukanya pendirian yang metaphisisreligieus ini terdapat pada arti yang makin besar yang diberikan kepada problem hubungan manusia dengan alam Ketuhanan, yang Ilahiah, di dalam kegiatan penyelidikan Jung. Jung pasti menyadari bahwa suatu sikap tak hormat terhadap yang Ilahiah, hanya berdasarkan titik-titik akhir (pendirian) emperie-phasnomenologis, tidak dapat dipertanggung jawabkan adalah sifat dasar dari yang Ilahiah bahwa ia memaksa orang ke arah penentuan sikap yang metaphisis-religieus dan terutama juga sikap yang ethis".
+[^1.6]: Carp, E.A.D.E., Problemen yan hot meszijn, Uttgever Wijt, Rotterdam 1953, h.79."Sang aku dapat lebur hanya dengan kesadaran bahwa ia tidak mampu untuk mengenal yang transenden, Dan selama perjalanannya menuju kepada peleburannya itu, sang aku dapat menerima kebenaran- kebenaran yang disebut kebenaran-kebenaran kepercayaan".
+[^1.7]: Carp, E.A.D.B., Christian Peychotherapy, Separata de Rerista de Psicologia Normal e Patologica ano 1 April Junho de 1955 No.2 "Semua kekayaan di dunia yang digali tetap tidak berharga selama orang yang menggali kekayaan itu tidak menggali diri sendiri, Merenungkan makhluk manusia adalah sama dengan merenungkan diri sendiri dan tidak mungkin ada psychotherapi yang tidak mengembangkan dirinya sendiri, Renungan tentang manusia yang disehut tadi membawa kepada pola kepribadian makhluk manusia, yang berciri khas eksistensinya, yaitu kebebasannya untuk menentukan diri sendiri dan transendensinya, yaitu keterlibatannya di dalam yang absolut".
+[^1.8]: Bandingkan dengan C.G.Jung, Peychologie und Religion, Rascher Verlag, Zurich und Leipzig, (die Terry Lectures) 1937, h.73.
+[^1.9]: Bandingkan dengan C.G.Jung, Simbolik des Geistes, Rascher Verlag, Zurich 1948, h.334.
+[^1.10]: C.G.Jung, Psychologi und Religion, Rascher verlas, Zurich und Leipzig (die Torry Lectures) 1937, h.76. “Intuisi 4tu tidak dibuat, orang punya pikiran yang datang dengan sekonyong-konyong, yang terjadi dengan sendirinya".
 
 ## BAB II : ASPEK STRUKTURIL
+
+```{figure} /images/7langit.jpg
+:height: 150px
+:name: figure-example
+
+Skema 7 langit
+```
 
 "Jika kita membuat schema seperti yang digambar pada bab ini (periksa Schema I) tentang relasi manusia dengan dunia luar dan tentang relasi-relasi intrapsikis manusia, maka kita peroleh gambaran yang menyeluruh tentang candramanusia itu sebagai pegangan visual untuk memahami anatomi dan fisiologi manusia sebagai makhluk rohaniah. Disamping itu schema ini merupakan suatu ruangan visual untuk mengikuti dan memahami dengan mudah tujuan-tujuan yang hendak dicapai oleh candramanusia Indonesia.
 
@@ -1201,5 +1202,11 @@ Bagi Freud titik akhir adalah mati. Bagi Adler yang ideal adalah menjalani perat
 Terapi yang berdasarkan candramanusia dan candradunia Indonesia ini dalam prinsipnya bertujuan membangkitkan kesediaan pasien untuk mengarahkan sikap hidupnya kepada Pusat immateriil (Alam Sejati) di dalam dirinya.
 
 ```python
+
+```
+
+## REFERENCES
+
+```{bibliography}
 
 ```

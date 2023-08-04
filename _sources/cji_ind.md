@@ -1,5 +1,22 @@
 # CANDRAJIWA INDONESIA (INDONESIA VERSION)
 
+<center>CANDRA JIWA INDONESIA SEBAGAI DASAR SUATU PSYCHOTHERAPY</center>
+
+<center>untuk mncapai gelar doktor Ilmu kedokteran pada Universitan Kerajaan </center>
+<center>di LEIDEN </center><br/>
+
+<center>atas otoritas Rektor Magnifikus Dr.A.E van Arkel, Guru Besar pada Fakultas Ilmu Pasti dan Ilmu Alam, dipertahankan terhadap sanggahan-sanggahan dari pihak Fakuultas Ilmu Kedokteran pada hari Rabu, 20 Juni 1956, jam 15.00 </center><br/>
+
+<center>oleh</center>
+<center>Soemantri Hardjoprakoso</center> 
+<center>Lahir di Nambangan, Solo (Indonesia) </center>
+<center>tahun 1913 </center><br/>
+
+<center>promotor</center>
+<center>Professor Dr.E.A.D.E Carp</center>
+
+<center>Dipersembahkan kepada Sri Sunar Nyoto</center>
+
 ## KATA PENDAHULUAN
 
 Kesempatan ini saya pergunakan untuk menyampaikan terima kasih dan penghargaan kepada beliau-beliau yang memungkinkan saya mencapai tonggak perjalanan ini dalam hidup saya.
@@ -115,7 +132,6 @@ Bab terakhir membahas suatu tinjauan membandingkan tempat sang Aku dalam sistem 
 ## BAB II : ASPEK STRUKTURIL
 
 ```{figure} /images/7langit.jpg
-:height: 150px
 :name: figure-example
 
 Skema 7 langit
@@ -433,7 +449,9 @@ Harmoni (keselarasan) baru dapat mulai timbul, jika manusia berusaha secara sada
 
 Walaupun manusia itu sebagian dari makrokosmos dan berada di dalam makrokosmos, dan Hidup immateriil itu meliputi dan merembesi makrokosmos itu, namun demikian pintu gerbang bagi manusia kepada Hidup, terletak dalam-dalam di dalam dirinya sendiri (13). Bahwa manusia dapat masuk ke dalam Hidup immateriil dan dapat menyatukan dan meleburkan dirinya ke dalamnya, itu berarti bahwa di dalam manusia itu ada juga sesuatu yang sama dengan Hidup itu. Sesuatu ini adalah Roh Suci. Jika manusia mau bertunggal dengan Hidup immateriil di luar dirinya, maka ini berarti bahwa kesadarannya harus keluar dari dirinya melalui pancaindra-nya. Pancaindra adalah alat-alat yang materiil, jadi bersifat terbatas. Karena itu dapat disimpulkan bahwa bertunggalnya manusia dengan Hidup tidak akan mungkin dilaksanakan melalui jalan keluar dirinya, tetapi bahwa manusia harus lebih dahulu mengusahakan di dalam hidupnya pembebasan sepenuhnya terhadap hubungan-hubungan intrapsikisnya sendiri.
 
-Pintu gerbang ke Hidup, Hidup yang berada di dalam maupun di luar diri manusia, berada di dalam essensi manusia yang terdalam (14). Jika manusia hanya mengorientasikan diri ke dunia luar saja, dan tidak tahu-menahu tentang Hidup Imateriil, maka makrokosmos memang tak terbatas dibandingkan dengan dirinya sendiri. Maka candramanusia hanya terdiri atas bahan-bahan pengalaman selama berjumpa dengan dunia luar. Tidak dapat keluar dari pengalaman dengan dunia luar itu. Dalam hal yang sebaliknya, karena kesediaan Roh Suci menyerahkan diri sepenuh-penuhnya kepada Sukema Sejati, timbullah keadaan dimana Roh Suci menerima ilham atau wahyu dari Suksma Sejati. Intuisi (ilham) atau wahyu itu tidak bersyarat, artinya ilham atau wahyu itu tidak dapat sengaja ditimbulkan, dengan cara yang bagaimanapun juga. Bagi saya, tidak ada perbedaan esensial antara ilham atau wahyu. Ilham atau wahyu itu sendiri tidak dapat dilukiskan. Orang dapat melukiskan gejala-gejala pengiringnya, yang merupakan gambaran-gambaran keadaan manusia, dimana ilham atau wahyu menyatakan diri. Akan tetapi, karena tiap orang dapat menerima ilham atau wahyu, gejala-gejala pengiring ini dapat berlainan sekali, tergantung dari keadaan jiwa orang yang bersangkutan.
+Pintu gerbang ke Hidup, Hidup yang berada di dalam maupun di luar diri manusia, berada di dalam essensi manusia yang terdalam (14).
+
+manusia hanya mengorientasikan diri ke dunia luar saja, dan tidak tahu-menahu tentang Hidup Imateriil, maka makrokosmos memang tak terbatas dibandingkan dengan dirinya sendiri. Maka candramanusia hanya terdiri atas bahan-bahan pengalaman selama berjumpa dengan dunia luar. Tidak dapat keluar dari pengalaman dengan dunia luar itu. Dalam hal yang sebaliknya, karena kesediaan Roh Suci menyerahkan diri sepenuh-penuhnya kepada Suksma Sejati, timbullah keadaan dimana Roh Suci menerima ilham atau wahyu dari Suksma Sejati. Intuisi (ilham) atau wahyu itu tidak bersyarat, artinya ilham atau wahyu itu tidak dapat sengaja ditimbulkan, dengan cara yang bagaimanapun juga. Bagi saya, tidak ada perbedaan esensial antara ilham atau wahyu. Ilham atau wahyu itu sendiri tidak dapat dilukiskan. Orang dapat melukiskan gejala-gejala pengiringnya, yang merupakan gambaran-gambaran keadaan manusia, dimana ilham atau wahyu menyatakan diri. Akan tetapi, karena tiap orang dapat menerima ilham atau wahyu, gejala-gejala pengiring ini dapat berlainan sekali, tergantung dari keadaan jiwa orang yang bersangkutan.
 
 Bila seseorang menerima ilham atau wahyu, maka orang itu pada waktu itu berada sangat "dekat" dengan Suksma Sejati, seperti umpamanya piameter berada melekat pada otak. Jika ilham atau wahyu itu sudah selesai, orang jatuh kembali kepada keadaan sadar sehari-harinya, dan ia tinggal mengalami gemanya saja dari iklim yang ia masuki untuk sesaat itu tadi. Bagaimana ia mengalami iklim ilham atau wahyu itu, tergantung dari besar kecilnya perbedaan antara iklim jiwanya sehari-hari dengan keadaan iklim "dekat" dengan Suksma Sejati. Jika perbedaan itu besar, sudah tentu ilham atau wahyu itu akan menyebabkan pergolakan hebat dalam pikiran dan perasaannya. Jika perbedaan itu tidak besar, maka gejala-gejala pengiringnya akan jauh lebih tenang. Intuisi atau wahyu itu adalah berjumpa manusia dengan Suksma Sejati, berjumpa kesadaran individu dengan kesadaran kolektif.
 

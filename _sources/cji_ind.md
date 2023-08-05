@@ -158,27 +158,27 @@ Selama perkembangan ini, tidak ada sesuatupun dari luar yang dimasukkan atau dii
 
 Mencapai candra-ideal itu di dalam hidup yang sekarang ini juga, itulah ajaran candramanusia dan candradunia Indonesia ini.
 
-Menurut ajaran ini, manusia terdiri atas prinsip immateriil yang merupakan hakekatnya dan selubung yang materiil (1). Prinsip immateriil ini tidak dilokalisasi di suatu bagian tertentu ataupun terikat pada organ tertentu, tetapi juga disebut titik-hubungan kerjanya dengan selubungnya yang materiil, yaitu di daerah dekat jantung (2). Tempat di mana kita mengalami perasaan yang terdalam dan terhalus menunjukkan tempat pintu gerbang untuk masuk ke alam prinsip immateriil ini.
+Menurut ajaran ini, manusia terdiri atas prinsip immateriil yang merupakan hakekatnya dan selubung yang materiil [^2.1]. Prinsip immateriil ini tidak dilokalisasi di suatu bagian tertentu ataupun terikat pada organ tertentu, tetapi juga disebut titik-hubungan kerjanya dengan selubungnya yang materiil, yaitu di daerah dekat jantung [^2.2]. Tempat di mana kita mengalami perasaan yang terdalam dan terhalus menunjukkan tempat pintu gerbang untuk masuk ke alam prinsip immateriil ini.
 
-Titik pangkal candrajiwa dan candradunia Indonesia ini adalah Hidup Sejati, sumber segala hidup dan sumber segala materiil (3). Hidup Sejati ini adalah satu dan abadi, immateriil, merembes, menembus, dan meliputi segala sesuatu. Ia mengatasi ruang dan waktu. Hidup Sejati tidak bermula dan tidak berakhir. Pada hakekatnya, Hidup Sejati ini menampakkan diri dalam tiga aspek.
+Titik pangkal candrajiwa dan candradunia Indonesia ini adalah Hidup Sejati, sumber segala hidup dan sumber segala materiil [^2.3]. Hidup Sejati ini adalah satu dan abadi, immateriil, merembes, menembus, dan meliputi segala sesuatu. Ia mengatasi ruang dan waktu. Hidup Sejati tidak bermula dan tidak berakhir. Pada hakekatnya, Hidup Sejati ini menampakkan diri dalam tiga aspek.
 
-Aspek pertama dan yang tertinggi adalah Hidup yang mutlak diam dan statis, disebut Suksma Kawekas. Aspek yang kedua adalah Hidup yang dinamis dimana dilahirkan aktivitas dari yang statis dan disebut Suksma Sejati. Aspek ketiga adalah Roh Suci, jiwa sejati dari manusia, yang dapat dianggap sebagai cahaya atau percikan api dari Suksma Kawekas. Hidup yang satu dan yang menampakkan diri dalam tiga aspek ini disebut TRIPURUSA(4).
+Aspek pertama dan yang tertinggi adalah Hidup yang mutlak diam dan statis, disebut Suksma Kawekas. Aspek yang kedua adalah Hidup yang dinamis dimana dilahirkan aktivitas dari yang statis dan disebut Suksma Sejati. Aspek ketiga adalah Roh Suci, jiwa sejati dari manusia, yang dapat dianggap sebagai cahaya atau percikan api dari Suksma Kawekas. Hidup yang satu dan yang menampakkan diri dalam tiga aspek ini disebut TRIPURUSA[^2.4].
 
-Jika Suksma Kawekas itu pemegang kehendak, maka Suksma Sejati adalah pemegang perencanaan dan kebijaksanaan, dan Roh Suci memiliki kekuasaan tentang pelaksanaannya (5). Suksma Kawekas mempunyai kekuasaan mutlak, sebagai pemiliknya. Suksma Sejati yang memegang kekuasaan mutlak itu dikurangi kehendak, karena itu Suksma Sejati disebut juga Utusan yang nonpribadi (onpersoonlijk) dari Suksma Kawekas. Roh Suci, sebagai percikan Suksma Kawekas, dianggap juga sebagai hamba dari Suksma Kawekas dan Suksma Sejati, dan mendapat pelimpahan kekuasaan Suksma Sejati, dikurangi kompetensi untuk perencanaan dan kebijaksanaan, dalam menjalankan kekuasaan pelaksanaan dipimpin dan dibantu oleh Suksma Sejati. Karena itu, Suksma Sejati disebut juga Guru Sejati, Penuntun Sejati, atau Panutan Sejati, Sang Sabda, Sang Pepadang (6)."
+Jika Suksma Kawekas itu pemegang kehendak, maka Suksma Sejati adalah pemegang perencanaan dan kebijaksanaan, dan Roh Suci memiliki kekuasaan tentang pelaksanaannya [^2.5]. Suksma Kawekas mempunyai kekuasaan mutlak, sebagai pemiliknya. Suksma Sejati yang memegang kekuasaan mutlak itu dikurangi kehendak, karena itu Suksma Sejati disebut juga Utusan yang nonpribadi (onpersoonlijk) dari Suksma Kawekas. Roh Suci, sebagai percikan Suksma Kawekas, dianggap juga sebagai hamba dari Suksma Kawekas dan Suksma Sejati, dan mendapat pelimpahan kekuasaan Suksma Sejati, dikurangi kompetensi untuk perencanaan dan kebijaksanaan, dalam menjalankan kekuasaan pelaksanaan dipimpin dan dibantu oleh Suksma Sejati. Karena itu, Suksma Sejati disebut juga Guru Sejati, Penuntun Sejati, atau Panutan Sejati, Sang Sabda, Sang Pepadang [^2.6]."
 
-Suksma Sejati sebagai yang dinamis menciptakan empat unsur dasar: suasana, api, air, dan bumi. Keempat unsur ini saling bereaksi dan karena dipimpin oleh suatu perencanaan, terjadilah alam semesta. Maka datanglah di dunia: manusia, hewan, tumbuh-tumbuhan, dan dewa. Jasmani manusia terdiri atas empat unsur, hewan: tiga (suasana, api, dan bumi), tumbuh-tumbuhan : dua (api dan bumi), dan dewa : satu unsur, yaitu unsur api (7).
+Suksma Sejati sebagai yang dinamis menciptakan empat unsur dasar: suasana, api, air, dan bumi. Keempat unsur ini saling bereaksi dan karena dipimpin oleh suatu perencanaan, terjadilah alam semesta. Maka datanglah di dunia: manusia, hewan, tumbuh-tumbuhan, dan dewa. Jasmani manusia terdiri atas empat unsur, hewan: tiga (suasana, api, dan bumi), tumbuh-tumbuhan : dua (api dan bumi), dan dewa : satu unsur, yaitu unsur api [^2.7].
 
-Yang esensial di dalam manusia adalah Roh Suci, dengan hubungan mutlaknya di dalam Tripurusa, sebagai hakekat hewan adalah Roh Suci saja, tanpa hubungan mutlak di dalam Tripurusa, tumbuh-tumbuhan dan dewa tidak mempunyai Roh Suci sebagai esensi. Yang menjadi daya hidup tumbuh-tumbuhan adalah daya hidup unsur-unsurnya sendiri, yaitu unsur air dan bumi (8).
+Yang esensial di dalam manusia adalah Roh Suci, dengan hubungan mutlaknya di dalam Tripurusa, sebagai hakekat hewan adalah Roh Suci saja, tanpa hubungan mutlak di dalam Tripurusa, tumbuh-tumbuhan dan dewa tidak mempunyai Roh Suci sebagai esensi. Yang menjadi daya hidup tumbuh-tumbuhan adalah daya hidup unsur-unsurnya sendiri, yaitu unsur air dan bumi [^2.8].
 
-Tentang dewa dipersilahkan memeriksa bab "Tentang Dewa". Semua yang bersifat unsur dalam berbagai bentuk, gerak, dan metamorphosenya dan segala sesuatu yang tak dapat dipisahkan dari unsur dianggap sebagai busana dari Hidup (9)
+Tentang dewa dipersilahkan memeriksa bab "Tentang Dewa". Semua yang bersifat unsur dalam berbagai bentuk, gerak, dan metamorphosenya dan segala sesuatu yang tak dapat dipisahkan dari unsur dianggap sebagai busana dari Hidup [^2.9]
 
-Jika salah satu bentuk hancur, maka unsur-unsur pembentuknya kembali kepada keadaannya semula, untuk kemudian membentuk wujud-wujud yang lain. Proses terus-menerus ini, perkembangan dan kehancuran, menjadi dan musnah, dilahirkan dan mati, tumbuh dan surutnya bentuk dan wujud, akan tetap ada selama Kehendak Suksma Kawekas masih berlaku untuk membiarkan semua ini terus berada (10).
+Jika salah satu bentuk hancur, maka unsur-unsur pembentuknya kembali kepada keadaannya semula, untuk kemudian membentuk wujud-wujud yang lain. Proses terus-menerus ini, perkembangan dan kehancuran, menjadi dan musnah, dilahirkan dan mati, tumbuh dan surutnya bentuk dan wujud, akan tetap ada selama Kehendak Suksma Kawekas masih berlaku untuk membiarkan semua ini terus berada [^2.10].
 
 Keempat unsur tadi masing-masing mempunyai potensi sendiri, yang menyatakan diri di dalam jasmani manusia sebagai suatu aktivitas atau nafsu. Karena itu ada empat daya hidup atau nafsu yang berlain-lainan.
 
-Nafsu suasana adalah dorongan ke arah perikemanusiaan, sosial, dan suprasosial, cintakasih kepada sesama makhluk. Nafsu ini diberi nama 'mutmainah'. Unsur api mengandung nafsu yang kita sebut amarah dan yang menyatakan diri di dalam temperamen yang mudah marah, dalam kekuatan kehendak, dan dalam keuletan menyelesaikan usaha. Unsur air memberi nafsu keinginan dan hasrat, cintakasih, dan tertarik kepada yang indah. Nafsu ini bernama 'sufiah'. Lauwamah adalah nafsu dari bumi, yaitu dorongan egoisme, keselamatan diri, dan enggan memulai suatu gerak tindak. Ia menyatakan diri dalam sifat-sifat malas, loba tamak, mencari enaknya saja, puas diri, egoisme, dan nafsu sahwat. Tetapi, nafsu ini mempunyai juga segi-segi baiknya, yaitu jika ia tunduk kepada dan dimanfaatkan untuk mutmainah, nafsu sosial, dan suprasosial. Dalam hal demikian, lauwamah menyatakan diri dalam bentuk kekuatan jasmaniah, keuletan terhadap penderitaan dan kekurangan, toleransi, dan daya tampung yang besar, semuanya itu adalah sifat-sifat dari ibu-bumi (11).
+Nafsu suasana adalah dorongan ke arah perikemanusiaan, sosial, dan suprasosial, cintakasih kepada sesama makhluk. Nafsu ini diberi nama 'mutmainah'. Unsur api mengandung nafsu yang kita sebut amarah dan yang menyatakan diri di dalam temperamen yang mudah marah, dalam kekuatan kehendak, dan dalam keuletan menyelesaikan usaha. Unsur air memberi nafsu keinginan dan hasrat, cintakasih, dan tertarik kepada yang indah. Nafsu ini bernama 'sufiah'. Lauwamah adalah nafsu dari bumi, yaitu dorongan egoisme, keselamatan diri, dan enggan memulai suatu gerak tindak. Ia menyatakan diri dalam sifat-sifat malas, loba tamak, mencari enaknya saja, puas diri, egoisme, dan nafsu sahwat. Tetapi, nafsu ini mempunyai juga segi-segi baiknya, yaitu jika ia tunduk kepada dan dimanfaatkan untuk mutmainah, nafsu sosial, dan suprasosial. Dalam hal demikian, lauwamah menyatakan diri dalam bentuk kekuatan jasmaniah, keuletan terhadap penderitaan dan kekurangan, toleransi, dan daya tampung yang besar, semuanya itu adalah sifat-sifat dari ibu-bumi [^2.11].
 
-Keempat unsur ini begitu bercampur baur di dalam jasmani, sehingga tidak dapat ditunjuk keadaan mereka masing-masing jika terpisah dari yang lain-lain. Namun demikian, disebut juga tempat lokalisasi dimana terdapat konsentrasi suatu unsur tertentu, sehingga ia berdominasi di tempat itu. Umpamanya, hawa yang masuk dalam pernapasan adalah tempat dimana terdapat paling banyak unsur suasana. Di dalam darah terdapat konsentrasi unsur api yang terbesar, di dalam sungsum terdapat banyak unsur air, sedangkan di dalam urat-daging unsur bumi lah yang mempunyai perwakilan terbesar." (12)
+Keempat unsur ini begitu bercampur baur di dalam jasmani, sehingga tidak dapat ditunjuk keadaan mereka masing-masing jika terpisah dari yang lain-lain. Namun demikian, disebut juga tempat lokalisasi dimana terdapat konsentrasi suatu unsur tertentu, sehingga ia berdominasi di tempat itu. Umpamanya, hawa yang masuk dalam pernapasan adalah tempat dimana terdapat paling banyak unsur suasana. Di dalam darah terdapat konsentrasi unsur api yang terbesar, di dalam sungsum terdapat banyak unsur air, sedangkan di dalam urat-daging unsur bumi lah yang mempunyai perwakilan terbesar." [^2.12]
 
 Beradanya Tripurusa di dalam jasmani sebagai busana materiil menimbulkan refleksi (bayangan) dengan sebutan angan-angan. Refleksi Tripurusa di dalam selubung materiil ini adalah daya-daya intelektual manusia. Refleksi ini mempunyai tiga aspek juga:
 
@@ -186,70 +186,73 @@ a). Cipta sebagai pemantulan Roh Suci, Cipta adalah pikiran atau fungsi yang mem
 
 b). Nalar atau pemikir adalah fungsi assosiatif, yang mengasosiasikan berbagai bayangan-pikiran menjadi satu rangkaian. Kemampuan ini adalah akibat pemantulan Suksma Sejati di dalam busana materiil.
 
-c). Pangerti, fungsi menangkap arti, menangkap dan melihat keseluruhan, menilik-menembus ke dalam obyek. Kemampuan ini bersumber kepada refleksi Suksma Kawekas." (13).
+c). Pangerti, fungsi menangkap arti, menangkap dan melihat keseluruhan, menilik-menembus ke dalam obyek. Kemampuan ini bersumber kepada refleksi Suksma Kawekas." [^2.13].
 
-Ketiga aspek ini berlokalisasi di dalam susunan urat-syaraf pusat, cipta dan nalar di dalam otak, dan pangerti di dalam suatu pusat nalar dekat dengan jantung. Selain itu ketiga aspek itu berada secara kolektip di dalam refleksi Tripurusa yang tidak berdifferensiasi, yaitu angan-angan dalam arti sempit, yang bertempat di dekat jantung juga (14).
+Ketiga aspek ini berlokalisasi di dalam susunan urat-syaraf pusat, cipta dan nalar di dalam otak, dan pangerti di dalam suatu pusat nalar dekat dengan jantung. Selain itu ketiga aspek itu berada secara kolektip di dalam refleksi Tripurusa yang tidak berdifferensiasi, yaitu angan-angan dalam arti sempit, yang bertempat di dekat jantung juga [^2.14].
 
-Angan-angan sebagai keseluruhan kadang-kadang digambarkan dengan Lambang berupa seekor ularnaga berkepala tiga (15). Tiga kepala itu mengembangkan tiga bentuk differensiasi dari angan-angan. Tiga refleksi dari Tripurusa ini masing-masing mempunyai tenaga gaib.
+Angan-angan sebagai keseluruhan kadang-kadang digambarkan dengan Lambang berupa seekor ularnaga berkepala tiga [^2.15]. Tiga kepala itu mengembangkan tiga bentuk differensiasi dari angan-angan. Tiga refleksi dari Tripurusa ini masing-masing mempunyai tenaga gaib.
 
-"Tenaga gaib cipta adalah Pangaribawa, dari nalar bernama Prabawa dan Kemayan adalah hasil dari pangerti. Terutama Kemayanlah yang mempunyai tenaga magis. Ketiga aspek angan-angan ini tidak pernah bertindak sendiri-sendiri, tetapi selalu simultan (bersama-sama pada waktu yang sama). Badan jasmani sebagai keseluruhan berhubungan dengan dunia luar dengan perantaraan pancaindera.Ada lima indera: penglihat, pendengar, pemabu,perasa dan pengucap (bahasa) (17).
+"Tenaga gaib cipta adalah Pangaribawa, dari nalar bernama Prabawa dan Kemayan adalah hasil dari pangerti. Terutama Kemayanlah yang mempunyai tenaga magis. Ketiga aspek angan-angan ini tidak pernah bertindak sendiri-sendiri, tetapi selalu simultan (bersama-sama pada waktu yang sama)[^2.16]. Badan jasmani sebagai keseluruhan berhubungan dengan dunia luar dengan perantaraan pancaindera.Ada lima indera: penglihat, pendengar, pemabu,perasa dan pengucap (bahasa) [^2.17].
 
-Yang dimaksud indera perasa ialah rasa halus manusia, semacam organ peraba yang tak tampak, dengan mana orang dapat meraba-raba perasaan dan pikiran orang lain sampai sedalam-dalamnya dan dengan mana orang dapat menerima atau menolak sesuatu. Katanya perasa ini bertempat di hati.(18)."
+Yang dimaksud indera perasa ialah rasa halus manusia, semacam organ peraba yang tak tampak, dengan mana orang dapat meraba-raba perasaan dan pikiran orang lain sampai sedalam-dalamnya dan dengan mana orang dapat menerima atau menolak sesuatu. Katanya perasa ini bertempat di hati.[^2.18]."
 
-Pengucap sebagai jembatan antara dunia luar dan manusia merupakan juga kemungkinan terjadinya interaksi antara manusia dengan lingkungannya dan karena itu dimasukkan sebagai salah satu indera. Pada indera-indera itu dibedakan bagian materiil kasar dan bagian materiil halusnya. Bagian yang kasar biasa digunakan dalam kehidupan kita yang sadar penuh, untuk pengamatan kita keluar. Bagian yang halus tetap bekerja selama orang tidur, di dalam bermimpi atau di dalam lamunan.
+Pengucap sebagai jembatan antara dunia luar dan manusia merupakan juga kemungkinan terjadinya interaksi antara manusia dengan lingkungannya dan karena itu dimasukkan sebagai salah satu indera. Pada indera-indera itu dibedakan bagian materiil kasar dan bagian materiil halusnya. Bagian yang kasar biasa digunakan dalam kehidupan kita yang sadar penuh, untuk pengamatan kita keluar. Bagian yang halus tetap bekerja selama orang tidur, di dalam bermimpi atau di dalam lamunan.[^2.19]
 
-Badan jasmani materiil terdiri juga atas bagian materiil kasar dan materiil halus. Di dalam badan jasmani kasar yang disebut juga bumi, terselenggara proses-proses jasmaniah yang biasa, pergantian zat, sirkulasi pernafasan, motorik urat dan sebagainya. Di dalam badan jasmani halus, yang disebut juga langit, terselenggara mekanisme-mekanisme psikologis, yang perlu untuk membentuk manusia sebagai makhluk rohaniah.
+Badan jasmani materiil terdiri juga atas bagian materiil kasar dan materiil halus.[^2.20] Di dalam badan jasmani kasar yang disebut juga bumi, terselenggara proses-proses jasmaniah yang biasa, pergantian zat, sirkulasi pernafasan, motorik urat dan sebagainya. Di dalam badan jasmani halus, yang disebut juga langit, terselenggara mekanisme-mekanisme psikologis, yang perlu untuk membentuk manusia sebagai makhluk rohaniah.
 
 Kedua badan jasmani, kasar dan halus, terjalin dengan eratnya. Kiranya dapat dibandingkan dengan perumpamaan seperti hubungan air dengan uap di atasnya. Pengaruhnya datang dari dan diterima oleh kedua belah pihak.
 
-Bumi yang bermateri kasar dan langit yang bermateri halus masing-masing terbagi atas tujuh saf, yang satu tidak terletak disamping yang lain, tetapi yang satu merombos dan menembus yang lain. Ketujuh saf ini terjadi karena perbedaan kepadatan materinya, yang disusun dalam tujuh konsentrasi. (21).
+Bumi yang bermateri kasar dan langit yang bermateri halus masing-masing terbagi atas tujuh saf, yang satu tidak terletak disamping yang lain, tetapi yang satu merombos dan menembus yang lain. Ketujuh saf ini terjadi karena perbedaan kepadatan materinya, yang disusun dalam tujuh konsentrasi. [^2.21].
 
-Manusia disebut juga jagad kecil atau mikrokosmos, karena semua unsur materi dan juga Tripurusa diwakili di dalamnya. Alam semesta, universum, hidup dengan busana materiil, disebut jagad besar atau makrokosmos. (22).
+Manusia disebut juga jagad kecil atau mikrokosmos, karena semua unsur materi dan juga Tripurusa diwakili di dalamnya. Alam semesta, universum, hidup dengan busana materiil, disebut jagad besar atau makrokosmos. [^2.22].
 
 Maka terlihatlah dalam struktur candrajiwa manusia Indonesia berbagai pusat:
 
+```
 I yang imateriil : Tripurusa,terdiri atas:
-Suksma Kawekas
-Suksma Sejati
-Roh Suci
-II yang materiil atau terikat oleh materi : 1. Angan-Angan : a. Pangerti - Kemayan
-b. Nalar - Prabawa
-c.Cipta - Pangaribawa 2. Nafsu-nafsu :a. Mutmainah
-b. Amarah
-c. Sufiah
-d. Lauamah 3. Rasa Pangrasa
-Pusat-vitalitas-terikat-materi yang ketiga ini ialah rasa-pangrasa atau hidup-perasaan.
+									Suksma Kawekas
+									Suksma Sejati
+									Roh Suci
+II yang materiil atau terikat oleh materi :
+	1. Angan-Angan : a. Pangerti - Kemayan
+					 b. Nalar	- Prabawa
+					 c.Cipta	- Pangaribawa
+	2. Nafsu-nafsu :a. Mutmainah
+					b. Amarah
+					c. Sufiah
+					d. Lauamah
+	3. Rasa Pangrasa
 
-Nafsu, angan-angan dan rasa-pangrasa adalah sebagai "tiga makhluk" yang berlain-lainan, masing-masing berjuang dan bekerja untuk diri sendiri dan karena itu menimbulkan ketidaselarasan, (23),
+Pusat-vitalitas-terikat-materi yang ketiga ini ialah rasa-pangrasa atau hidup-perasaan.
+```
+
+Nafsu, angan-angan dan rasa-pangrasa adalah sebagai "tiga makhluk" yang berlain-lainan, masing-masing berjuang dan bekerja untuk diri sendiri dan karena itu menimbulkan ketidaselarasan, [^2.23],
 
 Bagaimana sifat-sifat pusat-pusat vitalitas ini, bagaimana hubungannya yang satu dengan yang lain, dan apa Yang merupakan Integrasinya akan kita lihat di dalam bab-bab berikut:
 
-CATATAN TAMBAHAN:
-
-1. Soenarto Mertowardojo, R.T.Hardjoprakoso, R.Trihardono Soemodihardjo: Sasangka Jati, Repr.Jatop.523/B. 1954 halaman. 52 Bab Gumelaring dumadi (selanjutnya Soenarto cs. Sasangka Jati).
-
-2. Sda.Bab Tunggal Sabda hal. 107
-3. Sda, Bab Gumelaring dumadi hal 47
-4. Sda. Bab Kastasila hal 13
-5. Sda. Bab Tunggal Sabda hal. 105
-6. Sda. Bab Hastasila hal 13 - 14
-7. Sda, Bab Gumelaring dumadi hal 70 - 71
-8. Sda. Bab Gumelaring dumadi hal 67 - 68 - 69 - 70
-9. Sia.Bab Gumelaring dumadi hal 52 - 56
-10. Sda. Bab Gumelaring dumadi hal 66. Tunggal Sabda hal 121 Sangkan Paran hal 187
-11. Sda. Bab Gumelaring dumadi hal 52 -60 - 61
-12. Sia. Bab Gumelaring dumadi hal 62
-13. sda,Bab Gumelaring dumadi 60 - 6l
-14. sda.Bab Gumelaring dumadi hal 60 - 61
-15. Yasadipura IT : Dewa Ruci, diterbitkan oleh MeNg,Kramaprawira dengan perantaraan Percetakan Van Dorp. 1870, 1873, 1880.
-16. Soenarto cs, Bab Gumelaring dumadi hal 62
-17. Sda. cs, Bab Gumelaring dumadi hal 52 "
-18. Sda, Bab Hastasila hal 19
-19. Sda. Sabda Khusus tgl. 1-4-1919
-20. Sda. Bab Gumelaring dumadi hal 52
-21. Sda. Bab Tunggal Sabda hal 129
-22. Sda. Bab Gumelaring dumadi hal 52
-23. Tr.Soemodihardjo: Surat kepada saya tentang "memahami hidup "1952
+[^2.1]: Soenarto Mertowardojo, R.T.Hardjoprakoso, R.Trihardono Soemodihardjo: Sasangka Jati, Repr.Jatop.523/B. 1954 halaman. 52 Bab Gumelaring dumadi (selanjutnya Soenarto cs. Sasangka Jati).
+[^2.2]: Soenarto cs.,Sasangka Jati, Repr.Jatop.523/B. 1954 halaman. 107 Bab Tunggal Sabda
+[^2.3]: Soenarto cs.,Sasangka Jati, Repr.Jatop.523/B. 1954 halaman. 47 Bab Gumelaring dumadi
+[^2.4]: Soenarto cs.,Sasangka Jati, Repr.Jatop.523/B. 1954 halaman. 13 Bab Hastasila
+[^2.5]: Soenarto cs.,Sasangka Jati, Repr.Jatop.523/B. 1954 halaman. 105 Bab Tunggal Sabda
+[^2.6]: Soenarto cs.,Sasangka Jati, Repr.Jatop.523/B. 1954 halaman. 13-14 Bab Hastasila
+[^2.7]: Soenarto cs.,Sasangka Jati, Repr.Jatop.523/B. 1954 halaman. 70-71 Bab Gumelaring dumadi
+[^2.8]: Soenarto cs.,Sasangka Jati, Repr.Jatop.523/B. 1954 halaman. 67-70 Bab Gumelaring dumadi
+[^2.9]: Soenarto cs.,Sasangka Jati, Repr.Jatop.523/B. 1954 halaman. 52 - 56 Bab Gumelaring dumadi
+[^2.10]: Soenarto cs,Sasangka Jati, Repr.Jatop.523/B. 1954 halaman. 66 Bab Gumelaring dumadi, Tunggal Sabda hal 121 Sangkan Paran hal 187
+[^2.11]: Soenarto cs,Sasangka Jati, Repr.Jatop.523/B. 1954 halaman. 52 -60 - 61 Bab Gumelaring dumadi
+[^2.12]: Soenarto cs,Sasangka Jati, Repr.Jatop.523/B. 1954 halaman. 62 Bab Gumelaring dumadi
+[^2.13]: Soenarto cs,Sasangka Jati, Repr.Jatop.523/B. 1954 halaman. 60-61 Bab Gumelaring dumadi
+[^2.14]: Soenarto cs,Sasangka Jati, Repr.Jatop.523/B. 1954 halaman. 60-61 Bab Gumelaring dumadi
+[^2.15]: Yasadipura I : Dewa Ruci, diterbitkan oleh M.Ng,Kramaprawira dengan perantaraan Percetakan Van Dorp. 1870, 1873, 1880.
+[^2.16]: Soenarto cs,Sasangka Jati, Repr.Jatop.523/B. 1954 halaman. 62 Bab Gumelaring Dumadi
+[^2.17]: Soenarto cs,Sasangka Jati, Repr.Jatop.523/B. 1954 halaman. 60-61 Bab Gumelaring dumadi
+[^2.18]: Soenarto cs,Sasangka Jati, Repr.Jatop.523/B. 1954 halaman. 52 Bab Gumelaring dumadi
+[^2.19]: Soenarto cs,Sasangka Jati, Repr.Jatop.523/B. 1954 halaman. Sabda Khusus tgl 1-4-1949
+[^2.20]: Soenarto cs,Sasangka Jati, Repr.Jatop.523/B. 1954 halaman. 52 Bab Gumelaring dumadi
+[^2.21]: Soenarto cs,Sasangka Jati, Repr.Jatop.523/B. 1954 halaman. 129 Tunggal Sabda
+[^2.22]: Soenarto cs,Sasangka Jati, Repr.Jatop.523/B. 1954 halaman. 52 Bab Gumelaring dumadi
+[^2.23]: Tr.Soemodihardjo: Surat kepada saya tentang "memahami hidup", 1952
 
 ## BAB III: ASPEK FUNGSIONAL
 
@@ -257,7 +260,7 @@ Selama proses perkembangan badan jasmani manusia berjalan, kita melihat berbagai
 
 TRIPURUSA adalah pusat immateriil yang hakiki, yang menurut candrajiwa manusia Indonesia, adalah yang memasukkan Hidup di dalam manusia dan yang menyebabkan manusia sadar bahwa ia hidup.
 
-Selanjutnya ada angan-angan, yang terjadi karena refleksi Tripurusa di dalam badan jasmani. Angan-angan ini membentuk AKU manusia dan potensiil memegang pimpinan atas rasa-pangrasa atau disingkat pangrasa dan nafsu-nafsu. (1),
+Selanjutnya ada angan-angan, yang terjadi karena refleksi Tripurusa di dalam badan jasmani. Angan-angan ini membentuk AKU manusia dan potensiil memegang pimpinan atas rasa-pangrasa atau disingkat pangrasa dan nafsu-nafsu. [^3.1].
 
 Sifat utama angan-angan adalah kedaulatan (walaupun terbatas), dan angan-angan selalu berhubungan dengan pangrasa. Angan-angan merealisasi potensi tertentu karena ikatannya dengan nafsu dan alat-alat pelaksana jasmani. Angan-angan adalah pendukung dan pemegang kesadaran pribadi. Karena ikatan yang erat antara angan-angan dengan pangrasa dan nafsu, maka kesadaran pribadi ini mengandung rasa puas (lust).
 
@@ -267,7 +270,7 @@ Hidup itu ada di mana-mana, baik di mikro maupun di makrokosmos. Ada kesatuan da
 
 Keluar sang AKU mewakili seluruh jasmani dan bertanggung jawab juga atas aktivitas-aktivitas nafsu dan pangrasa. Tetapi menurut struktur jiwa, maka sang AKU hanya dibentuk oleh angan-angan. Sang AKU meliputi pangrasa dan nafsu-nafsu sebagai selubung.
 
-Bagian-bagian yang membentuk angan-angan: cipta, nalar, dan pangerti, beserta keempat kekuatan nafsu: lauwamah, sufiah, amarah, dan mutmainah, disebut kekuatan-kekuatan saudara sang AKU (2). Jadi ada tujuh kekuatan saudara. Kekuatan-kekuatan ini menggabungkan diri menjadi satu kekuatan yang terintegrasi. Penggabungan ini biasanya tidak total, karena itu ke tujuh saudara tersebut masing-masing masih mempunyai kebebasan bergerak terhadap yang sudah tergabung. Kalau penggabungan mi total, maka tenaga totalnya disebut Bayu Sejati (3), dan dia ini dapat mengeluarkan kemampuan-kemampuan supra-natural seperti dapat melihat hal-hal yang tersembunyi dan yang belum terjadi, pandai mengobati, telepati, dan sebagainya.
+Bagian-bagian yang membentuk angan-angan: cipta, nalar, dan pangerti, beserta keempat kekuatan nafsu: lauwamah, sufiah, amarah, dan mutmainah, disebut kekuatan-kekuatan saudara sang AKU [^3.2]. Jadi ada tujuh kekuatan saudara. Kekuatan-kekuatan ini menggabungkan diri menjadi satu kekuatan yang terintegrasi. Penggabungan ini biasanya tidak total, karena itu ke tujuh saudara tersebut masing-masing masih mempunyai kebebasan bergerak terhadap yang sudah tergabung. Kalau penggabungan mi total, maka tenaga totalnya disebut Bayu Sejati [^3.3], dan dia ini dapat mengeluarkan kemampuan-kemampuan supra-natural seperti dapat melihat hal-hal yang tersembunyi dan yang belum terjadi, pandai mengobati, telepati, dan sebagainya.
 
 Dengan Bayu Sejati, orang dapat, umpamanya, menemukan tanpa ragu-ragu barang-barang yang hilang, dengan mata tertutup menjalankan mobil di jalan yang ramai, menarikan tarian yang belum pernah ia lihat sebelumnya, mempergunakan bahasa asing yang belum dia kenal sebelumnya, dan sebagainya. Bayu Sejati dapat diaktifkan menurut kehendak. Tetapi penggabungan kekuatannya terikat pada syarat-syarat tertentu (periksa juga bab: Tentang kesadaran AKU). Di dalam keadaan Bayu Sejati, kesadaran tetap utuh sepenuhnya.
 
@@ -277,69 +280,48 @@ Bagaimanakah terselenggaranya kerjasama antara angan-angan, pangrasa, dan nafsu-
 
 Nafsu sebagai dorongan tak sadar merupakan daya pendorong atau motor yang menggerakkan angan-angan dan pangrasa. Angan-angan dan pangrasa adalah alat-alat yang terletak di bidang sadar.
 
-Nafsu lauwamah dan mutmainah berlawanan secara polar (4). Lauwamah adalah nafsu yang egosentripetal, sedangkan mutmainah egosentrifugal (5). Sufiah dan amarah dapat dianggap sebagai nafsu-nafsu bantu.
+Nafsu lauwamah dan mutmainah berlawanan secara polar [^3.4]. Lauwamah adalah nafsu yang egosentripetal, sedangkan mutmainah egosentrifugal (5). Sufiah dan amarah dapat dianggap sebagai nafsu-nafsu bantu.
 
-Mula-mula, lauwamah mengeluarkan nafsu egosentripetal. Sufiah menyambut dengan melepaskan nafsu keinginan untuk digabungkan dengan nafsu yang pertama. Keinginan ini mengaktifkan amarah, yang lalu membantu keinginan itu dengan menghasilkan daya kemauan atau daya keuletan usaha untuk mencapai keinginan itu tadi. Kombinasi hasil lauwamah, sufiah, dan amarah ini diteruskan kepada angan-angan. Cipta lalu membentuk bayangan dari apa yang diingini. Nalar mengasosiasikan bayangan itu dengan bayangan-bayangan lain yang tersedia dan/atau dengan hasil pengamatan pada waktu itu juga. Karena itu, pangerti mendapat pandangan yang menyeluruh tentang apa yang diingini. Karena pengertian yang telah tercapai oleh pengerti ini, maka bayangan tentang yang diingini itu lebih dipertajam lagi. Angan-angan menggerakkan alat-alat indera agar lebih waspada, merangsang nafsu lagi untuk lebih memperkuat lagi keinginannya, dan menobilisasi alat-alat pelaksana. Dengan demikian, tercapailah apa yang diingini (6).
+Mula-mula, lauwamah mengeluarkan nafsu egosentripetal. Sufiah menyambut dengan melepaskan nafsu keinginan untuk digabungkan dengan nafsu yang pertama. Keinginan ini mengaktifkan amarah, yang lalu membantu keinginan itu dengan menghasilkan daya kemauan atau daya keuletan usaha untuk mencapai keinginan itu tadi. Kombinasi hasil lauwamah, sufiah, dan amarah ini diteruskan kepada angan-angan. Cipta lalu membentuk bayangan dari apa yang diingini. Nalar mengasosiasikan bayangan itu dengan bayangan-bayangan lain yang tersedia dan/atau dengan hasil pengamatan pada waktu itu juga. Karena itu, pangerti mendapat pandangan yang menyeluruh tentang apa yang diingini. Karena pengertian yang telah tercapai oleh pengerti ini, maka bayangan tentang yang diingini itu lebih dipertajam lagi. Angan-angan menggerakkan alat-alat indera agar lebih waspada, merangsang nafsu lagi untuk lebih memperkuat lagi keinginannya, dan menobilisasi alat-alat pelaksana. Dengan demikian, tercapailah apa yang diingini [^3.6].
 
 Yang diingini itu tidak perlu berupa barang. Dapat juga sesuatu yang abstrak, umpamanya kedudukan, tingkat pendidikan, atau kemajuan tertentu, derajat suasana jiwa tertentu, dan sebagainya.
 
-Mutmainah juga tidak dapat berkembang tanpa sufiah. Kombinasi mutmainah dengan sufiah merangsang keinginan kepada kemurahan dan kebaikan hati, keluhuran budi, cinta kepada sesama manusia, sehingga tendensi-tendensi sosial dan suprasosial (7). Setelah itu, berlangsung prosedur yang sama dengan angan-angan, pancaindera, dan alat-alat pelaksana. Jika mutmainah yang bersifat sosial dan suprasosial itu berdominasi, lauwamah lalu tidak menjadi pengambil keputusan dan berkuasa seperti raja, tetapi lalu menjadi hamba yang taat, sedangkan sifat-sifatnya yang egosentripetal itu berubah menjadi kekuatan jasmani, daya tahan terhadap kekurangan dan penderitaan, dan toleransi (8). Jadi ada kemungkinan konversi pada lauwamah, berbeda dengan mutmainah yang tidak mempunyai kemungkinan ini. Angan-angan yang mengumpulkan pengetahuan dari dunia luar melalui pancaindera, berkewajiban mengatur nafsu sedemikian sehingga terpelihara hubungan baik dengan dan sikap yang baik terhadap dunia luar. Manusia harus menyesuaikan diri dengan dunia luar, karena itu ia harus menyalurkan nafsu-nafsunya melalui jalan-jalan tertentu.
+Mutmainah juga tidak dapat berkembang tanpa sufiah. Kombinasi mutmainah dengan sufiah merangsang keinginan kepada kemurahan dan kebaikan hati, keluhuran budi, cinta kepada sesama manusia, sehingga tendensi-tendensi sosial dan suprasosial [^3.7]. Setelah itu, berlangsung prosedur yang sama dengan angan-angan, pancaindera, dan alat-alat pelaksana. Jika mutmainah yang bersifat sosial dan suprasosial itu berdominasi, lauwamah lalu tidak menjadi pengambil keputusan dan berkuasa seperti raja, tetapi lalu menjadi hamba yang taat, sedangkan sifat-sifatnya yang egosentripetal itu berubah menjadi kekuatan jasmani, daya tahan terhadap kekurangan dan penderitaan, dan toleransi [^3.8]. Jadi ada kemungkinan konversi[^3.9] pada lauwamah, berbeda dengan mutmainah yang tidak mempunyai kemungkinan ini. Angan-angan yang mengumpulkan pengetahuan dari dunia luar melalui pancaindera, berkewajiban mengatur nafsu sedemikian sehingga terpelihara hubungan baik dengan dan sikap yang baik terhadap dunia luar. Manusia harus menyesuaikan diri dengan dunia luar, karena itu ia harus menyalurkan nafsu-nafsunya melalui jalan-jalan tertentu.
 
-Jika keinginan tercapai, maka badan jasmani mengalami rasa positif. Jika yang diingini hilang, mati, rusak, atau tidak tercapai, maka perasaan itu menjadi negatif. Dalam hal demikian, keinginan yang tidak tercapai beserta bayangan-bayangan yang terkait disimpan dalam angan-angan dalam arti sempit (10). Angan-angan dalam arti sempit yang penuh sesak menyebabkan keadaan sakit (neurose, psychoses, penyakit-penyakit psychosomatis) atau menyebabkan angan-angan membongkar sendiri muatannya melalui ucapan, gerak-gerak tangan saat bicara, dan impian. Angan-angan yang penuh sesak dapat dibongkar tanpa akibat yang merugikan melalui sikap menerima dan tawakkal (11).
+Jika keinginan tercapai, maka badan jasmani mengalami rasa positif. Jika yang diingini hilang, mati, rusak, atau tidak tercapai, maka perasaan itu menjadi negatif. Dalam hal demikian, keinginan yang tidak tercapai beserta bayangan-bayangan yang terkait disimpan dalam angan-angan dalam arti sempit [^3.10]. Angan-angan dalam arti sempit yang penuh sesak menyebabkan keadaan sakit (neurose, psychoses, penyakit-penyakit psychosomatis) atau menyebabkan angan-angan membongkar sendiri muatannya melalui ucapan, gerak-gerak tangan saat bicara, dan impian. Angan-angan yang penuh sesak dapat dibongkar tanpa akibat yang merugikan melalui sikap menerima dan tawakkal [^3.11].
 
-Impian dalam candrajiwa manusia Indonesia ini dipandang sebagai meluapnya angan-angan yang terlalu penuh. Hanya bagian sangat kecil saja dari jumlah impian yang mengandung perlambang tentang apa yang akan dialami oleh orang yang bermimpi dalam waktu dekat (12). Tentang impian semacam ini, bahasa Belanda menggunakan istilah "prophetis" (nabi) sedangkan Jung menggunakan istilah "vorfulend" (merasa-akan-terjadi-sebelumnya) (13). Dan apakah arti impian semacam itu,potensiil Hanya orang yang bermimpi itu sendiri yang tahu, karena impian itu mempunyai lambang dengan arti pribadi. Hanya ahli budi yang dapat menunjukkan artinya (14).
+Impian dalam candrajiwa manusia Indonesia ini dipandang sebagai meluapnya angan-angan yang terlalu penuh. Hanya bagian sangat kecil saja dari jumlah impian yang mengandung perlambang tentang apa yang akan dialami oleh orang yang bermimpi dalam waktu dekat [^3.12]. Tentang impian semacam ini, bahasa Belanda menggunakan istilah "prophetis" (nabi) sedangkan Jung menggunakan istilah "vorfulend" (merasa-akan-terjadi-sebelumnya) [^3.13]. Dan apakah arti impian semacam itu,potensiil Hanya orang yang bermimpi itu sendiri yang tahu, karena impian itu mempunyai lambang dengan arti pribadi. Hanya ahli budi yang dapat menunjukkan artinya [^3.14].
 
-Seperti telah dikatakan, aktivitas sang AKU yang asli (autochtoon) menutupi keadaan Tripurusa sehingga menjadi laten. Sang AKU merasa dirinya menguasai badan jasmani dan menganggap dirinya sebagai raja. Jika nafsu sebagai pendorong kuat, sedangkan angan-angan lemah dalam memegang pimpinan, maka angan-angan akan menyesuaikan diri dengan nafsu-nafsu. Dalam hal demikian, kombinasi lauwamah-sufiah menguasai angan-angan (15), ini berarti bahwa hasrat-hasrat dan keinginan egosentripetal merajalela di dalam manusia.
+Seperti telah dikatakan, aktivitas sang AKU yang asli (autochtoon) menutupi keadaan Tripurusa sehingga menjadi laten. Sang AKU merasa dirinya menguasai badan jasmani dan menganggap dirinya sebagai raja. Jika nafsu sebagai pendorong kuat, sedangkan angan-angan lemah dalam memegang pimpinan, maka angan-angan akan menyesuaikan diri dengan nafsu-nafsu. Dalam hal demikian, kombinasi lauwamah-sufiah menguasai angan-angan [^3.15], ini berarti bahwa hasrat-hasrat dan keinginan egosentripetal merajalela di dalam manusia.
 
 Bila reaksi manusia terhadap dunia luar diwarnai oleh hegemoni nafsu, maka tampaknya seakan-akan manusia itu mereaksi dengan nafsu-natsunya. Jika angan-angan yang berdominasi, manusia itu akan merespons dengan daya-daya intelektuilnya. Jika pangrasanya yang berdominasi, maka dia adalah seorang perasa.
 
-Jika mutmainah lebih kuat dari lauwamah, maka sang AKU mempunyai sikap sosial-suprasosial (16). Dalam sikap demikian, sang AKU berlaku sesuai dengan hati nuraninya, yang dalam candrajiwa manusia Indonesia dianggap terdiri dari semua pengalaman filogenetik dan ontogenetik manusia (17), dimana mutmainah mempunyai saham yang besar. Karena sikapnya yang sosial dan suprasosial, sang AKU dapat dengan mudah mengarahkan diri kepada Tripurusa, pusat imateriilnya. Jika angan-angan terarah kepada Tripurusa, maka pemilihan bayangan, asosiasi, dan pengertiannya selaras dengan Tripurusa. Maka timbullah AKU yang lebih "luhur", cipta yang lebih "luhur", nalar yang lebih "luhur", dan pangerti yang lebih "luhur" (18). Dengan jalan ini, titik berat hidup manusia memindahkan diri ke Rahsa Jati (kesadaran sejati Tripurusa).
+Jika mutmainah lebih kuat dari lauwamah, maka sang AKU mempunyai sikap sosial-suprasosial [^3.16]. Dalam sikap demikian, sang AKU berlaku sesuai dengan hati nuraninya, yang dalam candrajiwa manusia Indonesia dianggap terdiri dari semua pengalaman filogenetik dan ontogenetik manusia [^3.17], dimana mutmainah mempunyai saham yang besar. Karena sikapnya yang sosial dan suprasosial, sang AKU dapat dengan mudah mengarahkan diri kepada Tripurusa, pusat imateriilnya. Jika angan-angan terarah kepada Tripurusa, maka pemilihan bayangan, asosiasi, dan pengertiannya selaras dengan Tripurusa. Maka timbullah AKU yang lebih "luhur", cipta yang lebih "luhur", nalar yang lebih "luhur", dan pangerti yang lebih "luhur" [^3.18]. Dengan jalan ini, titik berat hidup manusia memindahkan diri ke Rahsa Jati (kesadaran sejati Tripurusa).
 
-Di manakah Rahsa Jati ini ? Jika orang khusyuk dengan rasa bahwa Hidup, yang berada di dalam tiap makhluk hidup, memanifestasikan diri padanya, maka ia akan dapat menunjukkan di mana letak Rahsa Jati itu (19).
+Di manakah Rahsa Jati ini ? Jika orang khusyuk dengan rasa bahwa Hidup, yang berada di dalam tiap makhluk hidup, memanifestasikan diri padanya, maka ia akan dapat menunjukkan di mana letak Rahsa Jati itu [^3.19].
 
-CATATAN TAMBAHAN:
-(1). R.Soenarto cs Sas.Jati Bab Gumelaring dumadi hal, 62
-(2). R.Soenarto Sabda Khusus 1919
-(3). R.Soenarto cs Bab Gumelaring dumadi hal 60
-(4). Catatan dari penterjemah: Berlawanan polair berarti berlawanan
-seperti kutub positip dengan kutub negatip dengan ciri-ciri:
-a. adanya yang satu disebabkan adanya yang lain
-b, walaupun kedua kutub itu berlawanan, keduanya itu borsamasama
-merupakan satu kesatuan.
-(5). Catatan penterjemah: sentripetal- gerak menuju kepada pusat.
-sentrifugal- gerak menjauh dari pusat.
-esosentripetal- (nafsu) yang menuju kepada pemuasan kepentingan
-dan kesenangan diri sendiri. .
-egosentrifugal- (nafsu) yang menuju kepada pemuasan kepentingan
-dan kesenangan bukan akunya sendiri, untuk orang laim, masyarakat
-atau Tuhan,
-(6). ReSoenarto, Sabda Khusus tanggal 1-6-1919,
-(7). R.Soenarto cs Sas.Jati Bab Gumelaring dumadi hal. 62, 63.
-(8). sda, sda. sda, sda,
-(9). Catatan penterjemah: Konversi- perubahan, penggantian, biasa dikatakan
-tentang hutang negara yang dlubah/diganti sukubunganya,
-(10). sda,
-(11). Sda.
-(13). C.G.Jung. Socenprobleme der Gegenwart Rascher & Cie AG Verlaf Zurich
-hal 99
-PKN BD Gnonarta Saha Khusus tangsal 1-6-1019,
+[^3.1]: R.Soenarto cs Sas.Jati Bab Gumelaring dumadi hal, 62
+[^3.2]: R.Soenarto Sabda Khusus 1919
+[^3.3]: R.Soenarto cs Bab Gumelaring dumadi hal 60
+[^3.4]:
+    Catatan dari penterjemah: Berlawanan polair berarti berlawanan seperti kutub positip dengan kutub negatip dengan ciri-ciri:
+    a. adanya yang satu disebabkan adanya yang lain
+    b. walaupun kedua kutub itu berlawanan, keduanya itu bersama-sama merupakan satu kesatuan.
 
-(15).
-(16).
-(12).
-(18),
-(19).
--18 -
-ReSoenarto cs Sas.Jati Bab Gumelaring dumadi hal 64
-Catatan dari penterjemah: Yang dimaksud dengan sikap suprasbsial
-disini ialah bakti kepada Tripurusa,
-Catatan dari penterjemah: pengalaman phylogenetis - pengalaman
-seseorang selama perkembangannya sejak dalam kandungan atau
-sejak lahir,
-Pengalaman ontogenetis » pengalaman umat manusia seluruhnya selama
-pengembangannya , sejak adanya hingga sekarang,
-R.Soenarto cs, Sas.Jati Bab Gumelaring dumadi hal 65
-R.Soenarto, Sabda Khusus tanggal 1-6-1949.
+[^3.5]: Catatan penterjemah: sentripetal- gerak menuju kepada pusat. sentrifugal- gerak menjauh dari pusat. esosentripetal- (nafsu) yang menuju kepada pemuasan kepentingan dan kesenangan diri sendiri. egosentrifugal- (nafsu) yang menuju kepada pemuasan kepentingan dan kesenangan bukan akunya sendiri, untuk orang laim, masyarakat atau Tuhan.
+[^3.6]: ReSoenarto, Sabda Khusus tanggal 1-6-1919,
+[^3.7]: R.Soenarto cs Sas.Jati Bab Gumelaring dumadi hal. 62, 63.
+[^3.8]: R.Soenarto cs Sas.Jati Bab Gumelaring dumadi hal. 62, 63.
+[^3.9]: Catatan penterjemah: Konversi- perubahan, penggantian, biasa dikatakan tentang hutang negara yang dlubah/diganti sukubunganya,
+[^3.10]: Catatan penterjemah: Konversi- perubahan, penggantian, biasa dikatakan tentang hutang negara yang dlubah/diganti sukubunganya,
+[^3.11]: Catatan penterjemah: Konversi- perubahan, penggantian, biasa dikatakan tentang hutang negara yang dlubah/diganti sukubunganya,
+[^3.12]: C.G.Jung. Socenprobleme der Gegenwart Rascher & Cie AG Verlaf Zurich hal 99
+[^3.13]: R.Soenarto Sabda Khusus tanggal 1-6-1949.
+[^3.14]: R.Soenarto cs, Sas.Jati Bab Gumelaring dumadi hal 64
+[^3.15]: Catatan dari penterjemah: Yang dimaksud dengan sikap suprasbsial disini ialah bakti kepada Tripurusa.
+[^3.16]: Catatan dari penterjemah: pengalaman phylogenetis - pengalaman seseorang selama perkembangannya sejak dalam kandungan atau sejak lahir,Pengalaman ontogenetis » pengalaman umat manusia seluruhnya selama pengembangannya , sejak adanya hingga sekarang.
+[^3.17]: R.Soenarto cs, Sas.Jati Bab Gumelaring dumadi hal 65
+[^3.18]: R.Soenarto, Sabda Khusus tanggal 1-6-1949.
 
 ## BAB IV: MANUSIA PADA UMUMNYA
 
@@ -482,7 +464,7 @@ Jika manusia hendak menggunakan Bayu Sejati, umpamanya untuk memperoleh keuntung
 
 Dalam keadaan Bayu Sejati, pusat-pusat vitalitas manusia tidak lagi memiliki otonomi terhadap yang lainnya. Tidak ada lagi pikiran-pikiran yang mengganggu, tidak ada keinginan dan kemauan yang tiba-tiba muncul dan mengganggu. Dalam keadaan seperti ini, kekuasaan unsur materi manusia mencapai kesempurnaannya. Setiap pikiran, emosi, keinginan, dan kemauan akan tunduk pada kekuasaannya yang mutlak. Keadaan jiwa seperti ini dapat dicapai oleh manusia sebelum titik berat kesadarannya pindah dan menetap di dalam kesadaran Roh Suci. Bagi orang yang mencapai keadaan ini, Akunya sehari-hari adalah Bayu Sejati dan tidak perlu dibangunkan untuk digunakan. Tidak ada lagi ketakutan, keraguan, harapan, atau rangsangan keinginan yang dapat menghalangi penyerahan dirinya secara tanpa syarat kepada Tripurusa.
 
-Setiap manusia yang selalu mengarahkan dirinya kepada Tripurusa, menambahkan satu faktor lagi kepada candramanusia, yaitu faktor dituntun oleh Svksna Sejati ke dalam ilham atau wahyu. Faktor ini tidak tergantung pada pengalaman tertentu dan berada di atas segala pengalaman. Karena wahyu ini kadang-kadang dihayati sebagai ucapan atau pemahaman sesuatu, maka Sukema Sejati juga disebut sebagai Sang Sabda dan Sang Pepadang.
+Setiap manusia yang selalu mengarahkan dirinya kepada Tripurusa, menambahkan satu faktor lagi kepada candramanusia, yaitu faktor dituntun oleh Svksna Sejati ke dalam ilham atau wahyu. Faktor ini tidak tergantung pada pengalaman tertentu dan berada di atas segala pengalaman. Karena wahyu ini kadang-kadang dihayati sebagai ucapan atau pemahaman sesuatu, maka Suksma Sejati juga disebut sebagai Sang Sabda dan Sang Pepadang.
 
 Penyerahan diri kepada Tripurusa berarti mengakhiri kehidupan sang AKU. Baru jika sang AKU-angan-angan mati, maka lahir AKU yang lebih tinggi dan lebih berdaulat, yaitu AKU-Roh Suci.
 
@@ -598,7 +580,7 @@ Ada tiga tingkat kebaktian:
 
 1. Kebaktian aku jasmaniah kepada Roh Suci.
    Kebaktian ini adalah kebaktian manusia yang masih "muda" dan "kurang berpengalaman" jiwanya.
-2. Kebaktian Roh Suci kepada Sukema Sejati atau kebaktian manusia yang telah matang jiwanya.
+2. Kebaktian Roh Suci kepada Suksma Sejati atau kebaktian manusia yang telah matang jiwanya.
 3. Kebaktian Suksma Sejati kepada Suksma Kawekas, yaitu kebaktian manusia yang telah mencapai pembebasannya dan karena itu telah berudi luhur.
 
 Tingkat pertama dan kedua dapat dicapai oleh setiap orang dalam kehidupannya saat ini, asalkan mereka benar-benar mengikuti petunjuk Suksma Sejati.
@@ -617,7 +599,7 @@ Banyak orang menyatakan percaya pada diri sendiri. Namun, kebanyakan dari mereka
 
 Ad.3
 
-Ketaatan adalah penyaluran hidup kita sehingga selaras dengan ajaran Guru Sejati. Semua kewajiban dalam masyarakat dapat dikembalikan kepada satu kewajiban ini: melaksanakan pekerjaan atas nama Sukema Sejati. Tidak ada satu kewajiban pun, yang bermanfaat bagi umat manusia, yang tidak mengandung kebijaksanaan Suksma Sejati. Karena itu, manusia masing-masing menurut kemampuan dan kedudukannya, wajib melaksanakan tugasnya dengan sepenuh hatinya, walaupun tugas itu mungkin tampak sepele dilihat dari segi sosialnya. Manusia tidak usah mengharap-harap akan mendapat tugas yang besar. Tugas besar adalah jarang, dan dia datang sebagai akibat logis dari selalu melaksanakan dengan baik banyak tugas yang kecil-kecil.
+Ketaatan adalah penyaluran hidup kita sehingga selaras dengan ajaran Guru Sejati. Semua kewajiban dalam masyarakat dapat dikembalikan kepada satu kewajiban ini: melaksanakan pekerjaan atas nama Suksma Sejati. Tidak ada satu kewajiban pun, yang bermanfaat bagi umat manusia, yang tidak mengandung kebijaksanaan Suksma Sejati. Karena itu, manusia masing-masing menurut kemampuan dan kedudukannya, wajib melaksanakan tugasnya dengan sepenuh hatinya, walaupun tugas itu mungkin tampak sepele dilihat dari segi sosialnya. Manusia tidak usah mengharap-harap akan mendapat tugas yang besar. Tugas besar adalah jarang, dan dia datang sebagai akibat logis dari selalu melaksanakan dengan baik banyak tugas yang kecil-kecil.
 Tak seorangpun boleh menganggap rendah suatu tugas yang diberikan kepadanya, bagaimanapun sepeleinnya tugas itu. Tiap orang mempunyai kewajibannya dan tiap orang mempunyai kedudukannya. Hidup masyarakat adalah bekerjasamanya beribu-ribu manusia. Tak seorangpun dapat hidup tanpa pertolongan sesama manusia. Inti ketaatan adalah menaruh sepenuh hati pada setiap perbuatan yang bagaimanapun sepele dan rendahnya, dan mengusahakannya dengan kesadaran akan dan kepercayaan kepada Suksma Sejati.
 
 Itulah TRISILA sebagai pegangan utama bagi manusia bagaimana ia harus hidup.
@@ -756,7 +738,7 @@ Semua rumput-rumput yang tumbuh merusak di hati harus disiangi. Hati manusia har
 
 Karena itu, panembah adalah esensial sebagai penyokong kesadaran akan adanya Tripurusa, yang diperkuat oleh percaya dan diamalkan oleh taat. Taat berarti bahwa manusia melatih badan jasmaninya dengan melaksanakan peraturan-peraturan sedemikian, sehingga angan-angan, perasaan, dan nafsu selaras dengan ajaran Suksma Sejati.
 
-Pusat-pusat vitalitas itu dengan demikian menciptakan suatu iklim rohaniah dalam kepribadian kita, yang selalu makin mendekati kesadaran dari Tripurusa. Jika iklim rohaniah itu menjadi sejalan dengan kesadaran Tripurusa, maka datanglah saatnya Tripurusa bermanifestasi dengan lengkap dalam badan jasmani. Pada saat ini, keterikatan sang AKU kepada jasmani berubah menjadi suatu hubungan. Perubahan ini dapat hanya untuk sementara atau selamanya, tergantung dari masih ada atau tidaknya kecenderungan untuk mengikatkan diri kepada dunia luar, karena dunia luar itu diwakili dalam badan jasmani oleh kesan-kesan perasaan dan pikiran. Kebaktian dapat skemakan berdasarkan hubungan hierarki dari badan jasmani, Roh Suci, Sukema Sejati, dan Suksma Kawekas. Watak dari kebaktian itu ditentukan oleh jarak atau perbedaan antara dua derajat yang berurutan. Karena itu, dilihat dari segi skema dan hierarki, ada tiga derajat kebaktian, yaitu:
+Pusat-pusat vitalitas itu dengan demikian menciptakan suatu iklim rohaniah dalam kepribadian kita, yang selalu makin mendekati kesadaran dari Tripurusa. Jika iklim rohaniah itu menjadi sejalan dengan kesadaran Tripurusa, maka datanglah saatnya Tripurusa bermanifestasi dengan lengkap dalam badan jasmani. Pada saat ini, keterikatan sang AKU kepada jasmani berubah menjadi suatu hubungan. Perubahan ini dapat hanya untuk sementara atau selamanya, tergantung dari masih ada atau tidaknya kecenderungan untuk mengikatkan diri kepada dunia luar, karena dunia luar itu diwakili dalam badan jasmani oleh kesan-kesan perasaan dan pikiran. Kebaktian dapat skemakan berdasarkan hubungan hierarki dari badan jasmani, Roh Suci, Suksma Sejati, dan Suksma Kawekas. Watak dari kebaktian itu ditentukan oleh jarak atau perbedaan antara dua derajat yang berurutan. Karena itu, dilihat dari segi skema dan hierarki, ada tiga derajat kebaktian, yaitu:
 
 1. Kebaktian Aku-materiil kepada Roh Suci
 2. Kebaktian Roh Suci kepada Suksma Sejati
@@ -810,7 +792,7 @@ Lauwamah memperlihatkan segi baiknya, Suasana ini makin meluas sehingga menggeja
 
 II. **_Kebaktian Roh Suci kepada Suksma Sejati_**.
 
-Kebaktian Roh Suci kepada Suksma Sejati ditentukan oleh perbedaan yang ada antara Suksma Sejati dan Roh Suci, Keduanya adalah immateriil, Perbedaan terletak didalam keterbatasan Roh Suci, yang terbatas pada kemanusiaan, sedang Suksma Sejati itu tidak terbatas, Sukema Sejati adalah Hidup yang memberi hidup kepada semua yang hidup,
+Kebaktian Roh Suci kepada Suksma Sejati ditentukan oleh perbedaan yang ada antara Suksma Sejati dan Roh Suci, Keduanya adalah immateriil, Perbedaan terletak didalam keterbatasan Roh Suci, yang terbatas pada kemanusiaan, sedang Suksma Sejati itu tidak terbatas, Suksma Sejati adalah Hidup yang memberi hidup kepada semua yang hidup,
 
 Karena nafsu telah dikuasai Roh Suci, maka kebaktian pada derajat ini sudah tidak memerlukan lagi upacara, dan panembahnya tidak lagi terikat oleh tempat dan waktu,
 
@@ -1033,7 +1015,7 @@ Mensubyektifkan barang-barang di dunia luar, meletakkan hubungan subyektif antar
 
 Orang-orang yang jauh lebih berpengalaman daripada kita dalam proses Pembebasan dan bahkan mereka yang telah mencapai Pembebasan itu, dapat berada bersama dengan kita di dunia materi dan membantu kita menertibkan dan menselaraskan kepribadian kita. Pendeknya, kehidupan jasmani mempermudah jalan mencapai Tripurusa.
 
-Dunia-jasmaniah ini oleh K. Jaspers disebut dunia-indra dan ruang (eintutelijk ruimtelijk). Dalam keadaan berada sesudah mati, isolasi struktural dan fungsional dari dunia-indra dan ruang menjadi kenyataan. Dalam keadaan yang demikian ini manusia menjadi autistis sepenuhnya dan tidak dapat meletakkan hubungan yang normal dengan dunia luar. Tambahan lagi di sana hanya hidup arwah-arwah yang pada saat matinya tidak dapat mengikuti Suara panggilan Sukema Sejati. Andaikata mereka dapat seling berhubungan pun, mereka tidak akan dapat saling membantu juga. Arwah-arwah ini mengira dan merasa masih hidup seperti dulu-dulu. Hanya sekarang tidak ada objek dunia luar untuk melepaskan keinginan, hasrat, dan afek mereka. Pikiran dan perasaannya bagi mereka menjadi kenyataan-kenyataan, tetapi yang tidak mungkin memberi pemuasan dan karena itu mereka selalu mengalami kekecewaan, tiap kali pikiran dan perasaan tadi melenyap. Umpamanya timbul rasa haus, tetapi mereka tidak dapat minum dan rasa haus ini tetap menggoda sampai ia hilang dengan sendirinya karena timbul perasaan-perasaan lain menggantikannya. Mungkin mereka merasa panas tanpa dapat berlindung atau mereka rindu kepada keluarganya tanpa ada kemungkinan untuk bertemu, karena keluarganya tidak ada yang menyambut panggilan atau kehadiran mereka. Ganti-bergantinya keinginan dan perasaan yang tak dapat dipenuhi dan yang harus hilang dengan sendirinya itu merupakan siksaan yang sungguh-sungguh. Siksaan ini berlangsung terus sampai mereka akhirnya mencari penyelesaian dan pembebasannya di dalam dirinya yang terdalam berupa penyerahan diri kepada Suksma Kawekas. Pada saat itulah mereka dibebaskan.
+Dunia-jasmaniah ini oleh K. Jaspers disebut dunia-indra dan ruang (eintutelijk ruimtelijk). Dalam keadaan berada sesudah mati, isolasi struktural dan fungsional dari dunia-indra dan ruang menjadi kenyataan. Dalam keadaan yang demikian ini manusia menjadi autistis sepenuhnya dan tidak dapat meletakkan hubungan yang normal dengan dunia luar. Tambahan lagi di sana hanya hidup arwah-arwah yang pada saat matinya tidak dapat mengikuti Suara panggilan Suksma Sejati. Andaikata mereka dapat seling berhubungan pun, mereka tidak akan dapat saling membantu juga. Arwah-arwah ini mengira dan merasa masih hidup seperti dulu-dulu. Hanya sekarang tidak ada objek dunia luar untuk melepaskan keinginan, hasrat, dan afek mereka. Pikiran dan perasaannya bagi mereka menjadi kenyataan-kenyataan, tetapi yang tidak mungkin memberi pemuasan dan karena itu mereka selalu mengalami kekecewaan, tiap kali pikiran dan perasaan tadi melenyap. Umpamanya timbul rasa haus, tetapi mereka tidak dapat minum dan rasa haus ini tetap menggoda sampai ia hilang dengan sendirinya karena timbul perasaan-perasaan lain menggantikannya. Mungkin mereka merasa panas tanpa dapat berlindung atau mereka rindu kepada keluarganya tanpa ada kemungkinan untuk bertemu, karena keluarganya tidak ada yang menyambut panggilan atau kehadiran mereka. Ganti-bergantinya keinginan dan perasaan yang tak dapat dipenuhi dan yang harus hilang dengan sendirinya itu merupakan siksaan yang sungguh-sungguh. Siksaan ini berlangsung terus sampai mereka akhirnya mencari penyelesaian dan pembebasannya di dalam dirinya yang terdalam berupa penyerahan diri kepada Suksma Kawekas. Pada saat itulah mereka dibebaskan.
 
 Dunia, di mana mereka mengembara di dalam badan jasmani halusnya, dinamakan dunia gelap atau alam kafiruna. Masa ini adalah masa penderitaan, kesedihan, dan kekecewaan. Manusia-manusia itu hidup di dalam dunia bayang-bayang angan-angannya sendiri, yang oleh mereka dipandang sebagai sungguh-sungguh materiil. Di dalam dunia ini, yang tidak lain daripada lanjutan kehidupan intrapsikis di dalam badan jasmani, mereka dipaksa mencari penyelesaiannya di dalam diri sendiri. Makin cepat jalan penyelesaiannya ini didapatkan, makin cepat pula mereka keluar dari alam kafiruna. Permainan angan-angan, pangrasa, dan nafsu ini sudah berlangsung juga di dalam kehidupan jasmani kasar.
 

@@ -6,12 +6,11 @@ I take this opportunity to express my gratitude and appreciation to those who ha
 
 First and foremost, I extend my respect, love, and thanks to R. Soenarto Mertowardoyo, to my late father, and to R. Trihardono Soemodihardjo, who have shown me the path to courageously pursue the goals I consider to be the purpose of life.
 
-Furthermore, I am deeply indebted to my mentor, Professor R. Slamet Iman Santoso, Head of the Department of Neurology, Psychiatry, and Psychology  at the Medical College in Jakarta, who has always been willing to accompany me on my journey towards psychiatry.
+Furthermore, I am deeply indebted to my mentor, Professor R. Slamet Iman Santoso, Head of the Department of Neurology, Psychiatry, and Psychology at the Medical College in Jakarta, who has always been willing to accompany me on my journey towards psychiatry.
 
 At the same time, I mention in the same breath my teacher, Dr. E.A.D.E. Carp, Professor of Psychiatry at Leiden University and head of the "Jelgersma" clinic. Years ago, when I was still in Indonesia, he encouraged me from afar to further explore research on the Indonesian people and later graciously guided me in his clinic. The atmosphere of psychological guidance I received from him allowed me to complete this work in the shortest possible time. The following analogy, which will surely capture the attention of certain individuals, depicts the deep emotional connection: if this work were a baby, then Professor Carp would be its midwife.
 
 To my fellow assistants and colleagues at the "Jelgersma" clinic, I extend my heartfelt gratitude for the pleasant cooperation during my time in Nederland. I would like to give special mention to Ms. Th.M.A. van Lith, who patiently assisted me with the technical execution of this dissertation. Her unwavering support has been invaluable.
-
 
 ## CHAPTER I: INTRODUCTION
 
@@ -43,7 +42,7 @@ This phenomenon of inspiration, which cannot be investigated through experimenta
 
 Father Walder wrote:
 
->"Die religiöse Funktion ist eine Grundgegebenheit des Menschen, Offenbarung ist für ihn (Jung) kein einmaliges Ereignis, sondern kann immer wieder stattfinden. Die Wahrnehmungsfunktion für die archetypische Vorstellungen ist die irrationale (introvertierte) Intuition, die in Beziehung gesetzt werden kann zur religiösen Funktion" (4).
+> "Die religiöse Funktion ist eine Grundgegebenheit des Menschen, Offenbarung ist für ihn (Jung) kein einmaliges Ereignis, sondern kann immer wieder stattfinden. Die Wahrnehmungsfunktion für die archetypische Vorstellungen ist die irrationale (introvertierte) Intuition, die in Beziehung gesetzt werden kann zur religiösen Funktion" (4).
 
 "The religious function is a fundamental aspect of human nature; revelation, for Jung, is not a singular event but can occur repeatedly. The perceptual function for archetypal ideas is the irrational (introverted) intuition, which can be related to the religious function." (4)
 
@@ -91,8 +90,6 @@ By a "coincidence," the three men eventually met. As it turned out, the other tw
 
 Certainly, these inspirations could only be experienced personally by the individuals. These events occurred unexpectedly, not bound by time and place. Moreover, they could not be intentionally induced. During the reception of inspirations, their consciousness remained functioning.
 
-
-
 > "Intuition wird nicht gemacht, man hat einen Finfall, der yon selbst entstanden ist" (10).
 
 "Intuition cannot be made, one has an insight that arises from within oneself." (10)
@@ -108,8 +105,6 @@ This dissertation consists of two parts. The first part comprises chapters where
 The second part includes chapters where candramanusia and candradunia are depicted using the terminologies employed by Freud, Adler, and Jung.
 
 The final chapter discusses a comparative analysis, examining the position of the self ("sang Aku") in the systems of Freud, Adler, and Jung in comparison to its place within the context of candramanusia in Indonesia.
-
-
 
 ADDITIONAL NOTES:
 
@@ -156,7 +151,6 @@ Throughout this development, nothing from the external world is incorporated or 
 
 The teaching of this Indonesian candramanusia and candradunia is to attain the candra-ideal in our present life.
 
-
 According to this teaching, humans consist of an immaterial principle which is their essence and a material envelope (1). This immaterial principle is not localized in any specific part or bound to any particular organ, but it is also referred to as the point of connection with its material envelope, which is in the area near the heart (2). The place where we experience our deepest and most refined feelings indicates the gateway to enter into this immaterial realm.
 
 The starting point of Indonesian candrajiwa and candradunia is the True Life, the source of all life and the source of all material existence (3). This True Life is one and eternal, immaterial, permeating, penetrating, and encompassing everything. It transcends space and time. True Life has no beginning and no end. Essentially, this True Life manifests in three aspects.
@@ -191,14 +185,13 @@ These three aspects are localized within the central nervous system, with "cipta
 
 The entirety of the mind is sometimes depicted symbolically as a three-headed serpent (15). Each of the three heads represents a distinct differentiation of the mind, and all three reflections of Tripurusa possess supernatural energy.
 
-The supernatural energy of "cipta" is called "Pangaribawa," from "nalar" it is known as "Prabawa," and "Kemayan" is the result of "pangerti." Particularly, "Kemayan" possesses magical power. These three aspects of the mind never act independently but always simultaneously (together at the same time). The physical body as a whole relates to the external world through the five senses: sight, hearing, smell, taste, and speech (language).
+The supernatural energy of "cipta" is called "Pangaribawa," from "nalar" it is known as "Prabawa," and "Kemayan" is the result of "pangerti." Particularly, "Kemayan" possesses magical power. These three aspects of the mind never act independently but always simultaneously (together at the same time). The physical body as a whole relates to the external world through the five senses: sight, hearing, smell, feeling, and uttering (language).
 
 The term "perasa" refers to the subtle feelings of a person, a sort of invisible organ of touch, with which one can sense and understand the feelings and thoughts of others at a profound level, and through which one can accept or reject something. It is said that this "perasa" is located in the heart.
 
 Speech serves as a bridge between the external world and humans, facilitating interaction between individuals and their environment and is therefore considered one of the senses. Among these senses, both the coarse material and subtle material aspects are distinguished. The coarse material part is commonly used in our fully conscious life for external observation. The subtle material part, on the other hand, continues to function during sleep, dreams, or daydreaming.
 
 The material body is also composed of coarse material and subtle material parts. In the coarse material body, also referred to as "bumi" (earth), regular physiological processes such as metabolism, respiration, muscular movement, and others are carried out. In the subtle material body, also referred to as "langit" (heaven), psychological mechanisms are at work, necessary for shaping humans as spiritual beings.
-
 
 The two physical bodies, coarse and subtle, are closely intertwined. It can be compared to the relationship between water and its vapor above. The influence comes from and is received by both parties.
 
@@ -208,19 +201,15 @@ Man is also referred to as the small universe or microcosm because all material 
 
 Thus, within the structure of Indonesian candrajiwa, various centers can be observed:
 I yang imateriil : Tripurusa,terdiri atas:
-                                    Suksma Kawekas
-									Suksma Sejati
-									Roh Suci
-II yang materiil atau terikat oleh materi :
-	1. Angan-Angan : a. Pangerti - Kemayan
-					 b. Nalar	- Prabawa
-					 c.Cipta	- Pangaribawa
-	2. Nafsu-nafsu :a. Mutmainah
-					b. Amarah 
-					c. Sufiah
-					d. Lauamah 
-	3. Rasa Pangrasa
-	
+Suksma Kawekas
+Suksma Sejati
+Roh Suci
+II yang materiil atau terikat oleh materi : 1. Angan-Angan : a. Pangerti - Kemayan
+b. Nalar - Prabawa
+c.Cipta - Pangaribawa 2. Nafsu-nafsu :a. Mutmainah
+b. Amarah
+c. Sufiah
+d. Lauamah 3. Rasa Pangrasa
 The third center of vital-bound material is the center of feeling or life-feeling.
 The desires, mind, and life-feeling are like "three creatures" that are different from each other, each striving and working for itself, thus causing disharmony (23).
 
@@ -236,7 +225,7 @@ CATATAN TAMBAHAN:
 5. Sda. Bab Tunggal Sabda hal. 105
 6. Sda. Bab Hastasila hal 13 - 14
 7. Sda, Bab Gumelaring dumadi hal 70 - 71
-8. Sda. Bab Gumelaring dumadi  hal 67 - 68 - 69 - 70
+8. Sda. Bab Gumelaring dumadi hal 67 - 68 - 69 - 70
 9. Sia.Bab Gumelaring dumadi hal 52 - 56
 10. Sda. Bab Gumelaring dumadi hal 66. Tunggal Sabda hal 121 Sangkan Paran hal 187
 11. Sda. Bab Gumelaring dumadi hal 52 -60 - 61
@@ -254,7 +243,6 @@ CATATAN TAMBAHAN:
 23. Tr.Soemodihardjo: Surat kepada saya tentang "memahami hidup "1952
 
 ## CHAPTER III: FUNCTIONAL ASPECT
-
 
 During the process of human bodily development, we observe various differentiated centers of vitality, each with its own distinct working area.
 
@@ -274,8 +262,7 @@ The components that form the mind (angan-angan): cipta (creation/imagination), n
 
 With Bayu Sejati, one can confidently find lost items, drive a car blindfolded in a busy street, perform a dance never seen before, use a foreign language never learned before, and more. Bayu Sejati can be activated by will. However, the integration of its powers is subject to certain conditions (see also the chapter: About the consciousness of the self). In the state of Bayu Sejati, consciousness remains completely intact.
 
-There is a binding that integrates TRIPURUSA, the mind (angan-angan), desires (pangrasa), and the impulses (nafsu). Considering that all four can be seen as centers of the human, the question becomes where one places the focus of their life, on TRIPURUSA, the mind, desires, or impulses. Essentially, there are only two possibilities. First, the focus lies in the immaterial center, namely TRIPURUSA. And second, within the physical body. Within the physical body, the focus can be on the mind (intellectual faculties), the desires (qualities of emotions), or the impulses (forces of desires and will). 
-
+There is a binding that integrates TRIPURUSA, the mind (angan-angan), desires (pangrasa), and the impulses (nafsu). Considering that all four can be seen as centers of the human, the question becomes where one places the focus of their life, on TRIPURUSA, the mind, desires, or impulses. Essentially, there are only two possibilities. First, the focus lies in the immaterial center, namely TRIPURUSA. And second, within the physical body. Within the physical body, the focus can be on the mind (intellectual faculties), the desires (qualities of emotions), or the impulses (forces of desires and will).
 
 How is the cooperation between the mind, feelings, and desires achieved?
 
@@ -288,7 +275,6 @@ Initially, lauwamah releases an egocentric desire. Sufiah responds by releasing 
 Desires can encompass not only material possessions but also abstract concepts, such as status, education level, progress, a certain state of mind, and so on.
 
 Mutmainah cannot develop without sufiah. The combination of mutmainah with sufiah stimulates the desire for generosity, kindness, nobility of character, and love for fellow humans, leading to social and suprasocial tendencies (7). Subsequently, the same process occurs as with the mind (angan-angan), the senses, and the tools of execution. If the social and suprasocial aspects of mutmainah dominate, lauwamah no longer acts as a decision-maker or ruler but rather becomes an obedient servant. The egocentric qualities of lauwamah transform into physical strength, resilience against hardships, and tolerance (8). Therefore, there is a possibility of conversion in lauwamah, unlike mutmainah, which lacks this potential. The mind (angan-angan), which accumulates knowledge from the external world through the senses, is obligated to regulate desires in a way that maintains a positive relationship with and a good attitude towards the external world. Humans must adapt to the external world, which requires channeling their desires through specific avenues.
-
 
 When desires are fulfilled, the physical body experiences positive feelings. On the other hand, if what is desired is lost, dies, is damaged, or remains unfulfilled, those feelings turn negative. In such cases, the unfulfilled desires along with their associated images are stored in the mind (angan-angan) in the narrow sense (10). The crowded mind (angan-angan) in the narrow sense leads to a state of illness (neuroses, psychoses, psychosomatic diseases) or causes the mind (angan-angan) to unload its contents through speech, hand gestures while talking, and dreams. A crowded mind (angan-angan) can be unloaded without harmful consequences through an attitude of acceptance and surrender (tawakkal) (11).
 
@@ -344,6 +330,7 @@ Pengalaman ontogenetis » pengalaman umat manusia seluruhnya selama
 pengembangannya , sejak adanya hingga sekarang,
 R.Soenarto cs, Sas.Jati Bab Gumelaring dumadi hal 65
 R.Soenarto, Sabda Khusus tanggal 1-6-1949.
+
 ## CHAPTER IV: HUMANS IN GENERAL
 
 As we have seen in the chapters "Structural Aspects" and "Functional Aspects," humans as a whole consist of three different forms of existence that are closely interconnected. From the external perspective, we have the form of existence that is gross material, fine material, and immaterial. The gross material form of existence is the world of objects that can be observed by the senses, where natural and chemical processes take place. This world corresponds to Karl Jaspers' "Sinnlichraumliche Welt" or sensory-spatial world.
@@ -426,7 +413,6 @@ Lowering the content of one's own thoughts from its throne means that humans det
 
 Such conscious state is characterized by complete and unconditional surrender to the immaterial Life. Whatever comes is accepted wholeheartedly. The sovereignty of the "I" of thoughts is reduced to zero. Humans no longer use their power to control and lead desires. In this state, the forces of desires cease to function. Here lies the ultimate capacity and humanity of humans. In the candrajiwa of Indonesian humans, those who reach this state achieve the position of their True Soul: the Holy Spirit.(11)
 
-
 We see three processes to achieve the position of the Holy Spirit, all of which must be carried out in harmony with each other to maintain personal balance. These processes are:
 
 1. Letting go of attachment to all things that are subject to change.
@@ -496,7 +482,6 @@ The consciousness of the Holy Spirit in this Tripurusa contains a promise to onl
 
 > Suksma Kawekas ialah sembahan hamba yang sejati dan Suksma Sejati adalah Utusan Suksma Kawekas yang Sejati, adalah Pemimpin dan Guru hamba yang Sejati. Hanya Suksma Kawekas menguasai semua alam dan seisinya, hanya Suksma Sejati yang menuntun para hamba semua. Semua kekuasaan, ialah kekuasaan Suksma Kawekas, ada di tangan Suksma Sejati dan hamba semua ada dalam kekuasaan Suksma Sejati (19).
 
-
 > Suksma Kawekas is the true worship of servants, and Suksma Sejati is the True Messenger of Suksma Kawekas, the Leader and Teacher of true servants. Only Suksma Kawekas rules over all realms and their contents, only Suksma Sejati guides all servants. All power, the power of Suksma Kawekas, is in the hands of Suksma Sejati, and all servants are within the power of Suksma Sejati. (19)
 
 This is the life pledge of the Holy Spirit, which is its declaration of faith.
@@ -529,6 +514,7 @@ i). Soenarto cs. Sas.Jati Bab Dalan Rahayu, h.152
 MD. sda. u bi " h.153
 ». Sda. La " " h.168
 U). Sda. LI “ " h.169
+
 ## BAB V : CANDRA IDEAL
 
 The ideal Candra is a certain state of consciousness in which all personal consciousness with all its psychic activities shift and unite in collective consciousness. If we imagine in general terms, there are three levels of consciousness in humans: the level of gross physical (collective consciousness), the level of subtle physical or psychic activities (personal consciousness), and the metaphysical level (collective consciousness). One level of consciousness can shift to another level, but this ideal Candra is a permanent manifestation of collective consciousness, with no possibility of descending back to personal consciousness and collective consciousness.
@@ -606,8 +592,9 @@ Ad.1
 To always be aware, it is necessary to engage in devotion by surrendering our whole, humble, and purified heart.
 
 There are three levels of devotion:
+
 1. Devotion of the physical self to the Holy Spirit.
-This devotion is the devotion of humans who are still "young" and "inexperienced" in their souls.
+   This devotion is the devotion of humans who are still "young" and "inexperienced" in their souls.
 2. Devotion of the Holy Spirit to Suksma Sejati or the devotion of humans whose souls have matured.
 3. Devotion of Suksma Sejati to Suksma Kawekas, which is the devotion of humans who have attained liberation and, therefore, have noble conduct.
 
@@ -618,7 +605,6 @@ Humans cannot reach Suksma Kawekas without the mediation of Suksma Sejati. Bats 
 It is crucial for humans to always strive to become one with Suksma Sejati, so that on their journey towards liberation, they are protected from all kinds of temptations, and they can reach the throne of Suksma Kawekas.
 
 Being aware of the existence of Tripurusa must be trained every day, so that it becomes a natural characteristic, as if it were an inherent trait, and therefore, receives constant organic reinforcement. At every moment, wherever one may be, they must be aware of Tripurusa, such as when walking, sitting, eating, sleeping, and so on. Being aware of Tripurusa within oneself will gradually develop into the ability to differentiate between what is true and what is false, what is eternal and what is transient, what is subjective and what is objective. Whatever one does, they will not be forsaken by the high ability to discern, if they continuously and sincerely remain aware of Tripurusa until their moment of death.
-
 
 Ad.2
 
@@ -635,6 +621,7 @@ No one should consider a task assigned to them as trivial, no matter how insigni
 That is TRISILA as the main guiding principle for humans on how they should live.
 
 The five virtues that individuals should cultivate within themselves in order to effectively practice Trisila are called Pancasila, which consists of the following (in Javanese terminology):
+
 1. Rila (Sincerity)
 2. Narima (Acceptance)
 3. Temen (Cooperation)
@@ -643,7 +630,7 @@ The five virtues that individuals should cultivate within themselves in order to
 
 ### PANCA SILA
 
-#### 1. Rila (sincerity). 
+#### 1. Rila (sincerity).
 
 (Willing, ready to sacrifice, ready to let go)
 
@@ -652,7 +639,6 @@ Rila is a state of mind in which a person is not attached or overly dependent on
 To cultivate the virtue of rila, one must learn to always act selflessly and be willing to help others, in accordance with the ethics and norms outlined in the teachings of the True Master. By consistently practicing rila, gradually one attains absolute freedom from the ego's bondage to the material world, both coarse and subtle.
 
 To cultivate the virtue of rila, one must learn to always act selflessly and be willing to help others, in accordance with the etiquette and manners outlined in the teachings of the True Master. By consistently practicing rila, gradually one attains absolute freedom from the ego's bondage to the material world, both coarse and subtle.
-
 
 #### 2. Narima (Acceptance)
 
@@ -704,7 +690,6 @@ The essence of human beings is Tripurusa. By worshiping limited objects and crea
 
 #### II. ** Be cautious with sensual desires.**
 
-
 In this prohibition, it is emphasized that man is the path through which the Holy Spirit enters the woman's body, and this responsibility must always be respected as a gift from Suksma Kawekas. If a person wishes to fulfill their obligations towards Suksma Kawekas, they should not indulge in their sensual desires but use them in accordance with the social code of conduct.
 
 Neglecting this prohibition can lead to physical and spiritual illnesses that may be passed down to future generations.
@@ -747,13 +732,13 @@ Syahadat is the consciousness of the Holy Spirit within Tripurusa, which is the 
 
 Let us repeat the translation of Syahadat here in the form of a statement:
 
->"Suksma Kawekas is the true devotion of servants, and Suksma Sejati is the true Messenger of Suksma Kawekas, namely the Guide and Teacher of true servants.
+> "Suksma Kawekas is the true devotion of servants, and Suksma Sejati is the true Messenger of Suksma Kawekas, namely the Guide and Teacher of true servants.
 
->Only Suksma Kawekas personally rules over all realms and their contents, and only Suksma Sejati personally guides all servants.
+> Only Suksma Kawekas personally rules over all realms and their contents, and only Suksma Sejati personally guides all servants.
 
->All power, which is the power of Suksma Kawekas, is in the hands of Suksma Sejati, and all servants are under the dominion of Suksma Sejati."
+> All power, which is the power of Suksma Kawekas, is in the hands of Suksma Sejati, and all servants are under the dominion of Suksma Sejati."
 
-The syahadat is an existential experience of the existence of Tripurusa, which is absolutely independent of anything, with the ability to dominate all that exists in material form, without being bound by anything material. This consciousness of the Holy Spirit is not experienced in a material sense and is not bound in a material way, unlike the reflection of Tripurusa, which is the mind in the broadest sense, which also has self-consciousness and consciousness of existence, bound in a material way, namely in the form of certain organs. Therefore, the consciousness of the Holy Spirit in Tripurusa is not known alongside the consciousness of the mind, which is organic and accompanied by a sense of satisfaction. The mind must first be eradicated in order to experience the syahadat. In other words, consciousness of Tripurusa is not at the level of organic consciousness, but humans can also experience this consciousness of Tripurusa if they are no longer bound by their organic consciousness. Tripurusa has an influence on organic consciousness,  but conversely, it is not the case.
+The syahadat is an existential experience of the existence of Tripurusa, which is absolutely independent of anything, with the ability to dominate all that exists in material form, without being bound by anything material. This consciousness of the Holy Spirit is not experienced in a material sense and is not bound in a material way, unlike the reflection of Tripurusa, which is the mind in the broadest sense, which also has self-consciousness and consciousness of existence, bound in a material way, namely in the form of certain organs. Therefore, the consciousness of the Holy Spirit in Tripurusa is not known alongside the consciousness of the mind, which is organic and accompanied by a sense of satisfaction. The mind must first be eradicated in order to experience the syahadat. In other words, consciousness of Tripurusa is not at the level of organic consciousness, but humans can also experience this consciousness of Tripurusa if they are no longer bound by their organic consciousness. Tripurusa has an influence on organic consciousness, but conversely, it is not the case.
 
 Although the Holy Spirit is one with Suksma Kawekas and Suksma Sejati, humans are not Suksma Kawekas or Suksma Sejati.
 
@@ -775,7 +760,7 @@ The vital centers thus create a spiritual climate within our personalities, whic
 2. Worship of the Holy Spirit to Suksma Sejati
 3. Worship of Suksma Sejati to Suksma Kawekas
 
-1. Worship of the Material I (Aku) to the Holy Spirit.
+4. Worship of the Material I (Aku) to the Holy Spirit.
 
 The difference between the Holy Spirit and the Material I (Aku) from the physical body is that the presence of the Holy Spirit is not bound by the material and its various aspects, such as honor, fame, reputation, tradition, power, and so on, while the Material I (Aku) is bound by all of these. Therefore, the worship of the Material I (Aku) must be directed towards transforming this bondage into a voluntary relationship, where unbinding responsibility and love connect the Holy Spirit and the physical body on one side with the surrounding world on the other side. This process can be called purification.
 
@@ -825,7 +810,7 @@ Worship creates an atmosphere, which can be likened to an oasis in the desert of
 
 Lauwamah reveals its good aspect. This atmosphere expands and persists. The oasis expands and transforms the desert into a beautiful garden. The state of the Holy Spirit is achieved. In this state, humans have freed themselves from material attachments, worldly bonds, and their own physical bodies. Humans have been perfectly purified; they have triumphed over themselves by sacrificing their ego. If this state becomes permanent, no longer disturbed by desires of a physical nature, then the allure of the world disappears immediately. The allure of the world exists only as long as humans feel attracted to it. If humans no longer feel attracted, then the allure of the world vanishes for them. Now, humans direct themselves towards Sang Guru Sejati (True Essence) and begin the worship of the Holy Spirit to Sang Guru Sejati.
 
-II. ***Worship of the Holy Spirit to Suksma Sejati***.
+II. **_Worship of the Holy Spirit to Suksma Sejati_**.
 
 The worship of the Holy Spirit to Suksma Sejati is determined by the difference between Suksma Sejati and the Holy Spirit. Both are immaterial, but the distinction lies in the limitations of the Holy Spirit, which is limited to humanity, while Suksma Sejati is limitless. Suksma Sejati is the life that gives life to all living beings.
 
@@ -833,7 +818,7 @@ Since desire is controlled by the Holy Spirit, worship at this level no longer r
 
 The Holy Spirit allows itself to be guided by Suksma Sejati, without its own will, without questioning how and why the ebb and flow occur in its life. Presenting problems that show rational activity is no longer used to orient oneself in life. What exists is the absolute acceptance of duty and destiny, with the sole motive of being led back to the pure Source by Suksma Sejati. The Holy Spirit is in the middle point of all polar aspects of the physical realm. In this motionless surrender, the Holy Spirit is received into Suksma Sejati, and the disciple becomes the Master, as stated in the Quran: "Inna lillahi wa inna ilaihi roji'un."
 
-***III. Worship of Suksma Sejati to Suksma Kawekas.***
+**_III. Worship of Suksma Sejati to Suksma Kawekas._**
 
 The worship of Suksma Sejati to Suksma Kawekas is the worship of noble-minded humans in the essence of the Indonesian inner soul. The difference between Suksma Kawekas and Suksma Sejati lies in the nature of Stillness, Static, and Movement, which are Dynamic.
 
@@ -1139,7 +1124,7 @@ The seven incarnations form a continuous line in terms of the consciousness of t
 
 As long as there is a physical body, classifications based on existing differences can be made, allowing the human community to be divided into various classes or levels. Humanity can be divided based on the manifestation of vital centers, and further divisions can be made based on the comparison of qualities and capacities. For instance, there could be classes of the angan-angan type with hierarchical interrelated subdivisions, or classes of the nafsu type with further detailed classifications, and so on.
 
-People can create divisions based on where the center of their life's focus lies—whether in the external world or the internal world, as Jung did in his extrovert and introvert typologies. 
+People can create divisions based on where the center of their life's focus lies—whether in the external world or the internal world, as Jung did in his extrovert and introvert typologies.
 
 As a starting point, all typologies can be accepted, and all these different types can serve as a basis from which each individual can free themselves from the bondage of material existence.
 
@@ -1162,7 +1147,7 @@ The replacement of gods can indeed happen because these gods are limited by thei
 Additional Note:
 Reference: R. Soenarto csm Sas Jati, Chapter "Sangkan Paran" pages 194-263.
 
-## SUMMARY 
+## SUMMARY
 
 The need is felt to have "candramanusia" and "candradunia" as the starting point and basis for a way of life, from which one can derive psycho-prophylaxis and psychotherapy. We choose and highlight "candramanusia" and "candradunia" of Soenarto Mertowardojo here, for the following reasons:
 
@@ -1235,7 +1220,6 @@ In Western psychological systems, only Jung shows the existence of further devel
 For Freud, the endpoint is death. For Adler, the ideal is to live according to the rules of society (social life) without the possibility of the AKU (Self) merging into that social life.
 
 Therapy based on Indonesian candramanusia and candradunia aims to awaken the patient's willingness to direct their attitude towards the immaterial Center (True Nature) within themselves.
-
 
 ```python
 
